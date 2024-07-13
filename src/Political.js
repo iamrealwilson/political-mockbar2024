@@ -612,7 +612,7 @@ const questions = [
     "text": "2.   The  1st  Legislative  District  of South  Cotabato  is   composed  of  General  Santos  and  three municipalities including Polomolok. During the canvassing proceedings before the District Board of Canvassers in connection with  the  2007 congressional elections, candidate MP objected to the certificate of canvass for Polomolok on the ground that it was obviously manufactured, submitting as  evidence the  affidavit of a  mayoralty candidate  of Polomok. The  certificate of canvass for General Santos was  likewise objected to by MP on  the  basis of the confirmed report of the local NAMFREL that 10 election returns from  non-existent precincts were  included in the  certificate. MP moved that the certificate of canvass for General Santos  be  corrected to  exclude the results from the nonexistent precincts. The District Board of Canvassers  denied both objections and ruled to include the certificate  of canvass.  May MP appeal the rulings to the COMELEC? Explain. (2008 Bar Question)"
   },
   {
-    "questionId": 154
+    "questionId": 154,
     "text": "3. As counsel for the protestant, where will you file an election protest  involving a contested elective position in:  (2009 Bar Question) a. the barangay b. the municipality c. the province d.  the city e. the House of Representatives"
   },
   {
