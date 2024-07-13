@@ -613,7 +613,7 @@ const questions = [
   },
   {
     "questionId": 154
-    "text": "3.   As counsel for the protestant, where will you file an election protest  involving a contested elective position in:  (2009 Bar Question)    a. the barangay? b.  the municipality? c. the province? d.  the city? e. the House of Representatives?"
+    "text": "3. As counsel for the protestant, where will you file an election protest  involving a contested elective position in:  (2009 Bar Question) a. the barangay b. the municipality c. the province d.  the city e. the House of Representatives"
   },
   {
     "questionId": 155,
