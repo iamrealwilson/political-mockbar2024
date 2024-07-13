@@ -1,0 +1,763 @@
+VII. CRIMINAL PROCEDURE
+
+A.General matters
+
+1.  Criminal jurisdiction; concept and requisites for exercise
+
+2.  When injunction may be issued
+
+B.Prosecution of offenses (Rule 110)
+
+1.	X was arrested, in flagrante, for robbing a bank. After an investigation, he was brought before the office of the prosecutor for inquest, but unfortunately no inquest prosecutor was available. May the bank directly file the complaint with the proper court? If in the affirmative, what document should be filed? (2012 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+Yes, the bank may directly file the complaint with the proper court. In the absence or unavailability of an inquest prosecutor, the complaint may be filed by the offended party or a peace officer directly with the proper court on the basis of the affidavit of the offended party or arresting officer or person (Section 6, Rule 112 of the Revised Rules of Criminal Procedure).
+
+2.   McJolly is a trouble-maker of sorts, always getting into brushes with the law.  In one incident, he drove his Humvee recklessly, hitting a pedicab which sent its driver and passengers in different directions. The pedicab driver died, while two (2) of the passenger suffered slight physical injuries. Two (2) Informations were then filed against McJolly. One, for Reckless Imprudence Resulting in Homicide and Damage to Property, and  two, for Reckless Imprudence Resulting  in Slight Physical Injures. The latter case was scheduled for arraignment earlier, on which occasion McJolly immediately pleaded guilty. He was meted out the penalty of public censure. A month later, the case for reckless imprudence resulting on homicide was also set for arraignment. Instead of pleading, McJolly interposed the defense of double jeopardy. Resolve. (2014 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+McJolly correctly interposed the defense of double jeopardy. Reckless imprudence under Article 365 is a quasi-offense by itself and not merely a means to commit other crimes, such that conviction or acquittal of such quasi-offense already bars subsequent prosecution for the same quasi-offense, regardless of its various resulting acts (Ivler v. Hon, Modesto-San Pedro, G.R. No. 172716, November 17, 2010).
+
+3.   Yvonne, a young and lonely OFW, had an intimate relationship abroad with a friend, Percy.
+Although Yvonne comes home to Manila every six months, her foreign posting still left her husband Dario lonely so that he also engaged in his own extramarital activities. In one particularly exhilarating session with his girlfriend, Dario died. Within 180 days from Dario’s death, Yvonne gives birth in Manila to a baby boy. Irate relatives of Dario contemplate criminally charging Yvonne for adultery and they hire your law firm to handle the case.
+
+A) Is the contemplated criminal action a viable option to bring? (2013 BAR QUESTION) 
+
+
+SUGGESTED ANSWER:
+
+NO. Section 5 of Rule 110 provides that the crimes of adultery and concubinage shall not be prosecuted except upon complaint by the offended spouse. Since the offended party is already dead, then the criminal action for adultery as contemplated by offended party’s relatives is no longer viable.
+
+B) Is a civil action to impugn the paternity of the baby boy feasible, and if so, in what proceeding may such issue be determined? (2013 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+YES, under Article 171 of the Family Code, the heirs of the husband may impugn the filiation of the child in the following cases:
+1)   If the husband should die before the expiration of the period fixed for bringing his action;
+2)   If he should die after the filing of the complaint, without having desisted therefrom; or
+3)   If the child was born after the death of the husband.
+
+Since Dario is already dead when the baby boy was born, his heirs have the right to impugn the filiation of the child.
+
+Consequently, the heirs may impugn the filiation either by a direct action to impugn such filiation or raise the same in a special proceeding for settlement of the estate of the decedent. In the said proceeding, the Probate court has the power to determine questions as to who are the heirs of the decedent (Reyes v. Ysip, et al., G.R. No. L-7516, May 12, 1955; Jimenez v. Intermediate Appellate Court, G.R. No. 75773, April 17, 1990).
+
+Incidentally, the heirs can also submit the baby boy for DNA testing (Rules on DNA Evidence, A.M. No. 6-
+11-5-SC) or even blood-test in order to determine paternity and filiation.
+
+In Jao v. Court of Appeals, G.R. No. L-49162, July 28, 1987, the Supreme Court held that blood grouping tests are conclusive as to non-paternity, although inconclusive as to paternity. The fact that the blood type of the child is a possible product of the mother and alleged father does not conclusively prove that the child is born by such parents; but, if the blood type of the child is not the possible blood type when the blood of the mother and that of the alleged father are cross matched, then the child cannot possibly be that of the alleged father.
+
+4.   While in his Nissan Patrol and hurrying home to Quezon City from his work in Makati, Gary figured in a vehicular mishap along that portion of EDSA within the City of Mandaluyong. He was bumped from behind by a Ford Expedition SUV driven by Horace who was observed using his cellular phone at the time of the collision. Both vehicles - more than 5 years old – no longer carried insurance other than the compulsory third party liability insurance. Gary suffered physical injuries while his Nissan Patrol sustained damage in excess of Php500,000.
+
+A) As counsel for Gary, describe the process you need to undertake starting from the point of the incident if Gary would proceed criminally against Horace, and identify the court with jurisdiction over the case. (2013 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+As counsel for Gary, I will first make him medically examined in order to ascertain the gravity and extent of the injuries he sustained from the accident. Second, I will secure a police report relative to the mishap. Third, I will ask him to execute his Sinumpaang Salaysay. Thereafter, I will use his Sinumpaang Salaysay or prepare a complaint affidavit and file the same in the Office of the City Prosecutor and later on to the 
+
+appropriate MTC of Mandaluyong City for the crime of Reckless Imprudence resulting to physical injuries and damage to property (Sec. 1 and 15, Rule 110).
+
+B) If Gary chooses to file an independent civil action for damages, explain briefly this type of action: its legal basis; the different approaches in pursuing this type of action; the evidence you would need; and types of defenses you could expect. (2013 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+An independent civil action is an action which is entirely distinct and separate from the criminal action. Such  civil action  shall  proceed  independently  of  the  criminal  prosecution  and  shall  require  only  a preponderance of evidence. Section 3 of Rule 111 allows the filing of an independent civil action by the offended party based on Article 33 and 2176 of the New Civil Code.
+
+The different approaches that the plaintiff can pursue in this type of action are, as follows:
+1)   File the independent civil action and prosecute the criminal case separately.
+2)   File the independent civil action without filing the criminal case.
+3)   File the criminal case without need of reserving the independent civil action.
+
+Aside from the testimony of Gary, the pieces of evidence that would be required in an independent civil action are the medical report and certificate regarding the injuries sustained by Gary, hospital and medical bills including receipt of payments made, police report and proof of the extent of damage sustained by his car, and the affidavit of witnesses who saw Horace using his cellular phone at the time the incident happened.
+
+I will also present proof of employment of Gary such as his pay slip in order to prove that he was gainfully employed at the time of the mishap, and as a result of the injuries he suffered, he was not able to earn his usual income thereof. I will also present the attending Doctor of Gary to corroborate and authenticate the contents of the medical report and abstract thereof. The evidence required to hold defendant Horace liable is only preponderance of evidence.
+
+The types of defenses that may be raised against this action are fortuitous event, force majeure or acts of God. The defendant can also invoke contributory negligence as partial defense. Moreover, the defendant can raise the usual defenses that the: (a) plaintiff will be entitled to double compensation or recovery, and (b) defendant will be constrained to litigate twice and therefore suffer the cost of litigation twice.
+
+5.   Leave  of court is  required  to  amend  a  complaint  or  information  before arraignment  if  the amendment            . (2013 BAR QUESTION)
+A)  upgrades the nature of the offense from a lower to a higher offense and excludes any of the
+accused
+B)  upgrades the nature of the offense from a lower to a higher offense and adds another accused C)  downgrades the nature of the offense from a higher to a lower offense or excludes any accused D) downgrades the nature of the offense from a higher to a lower offense and adds another
+accused
+E)  All the above choices are inaccurate. SUGGESTED ANSWER:
+(C) downgrades the nature of the offense from a higher to a lower offense or excludes any accused
+
+6.   Pedrito and Tomas, Mayor and Treasurer, respectively, of the Municipality of San Miguel, Leyte, are charged before the Sandiganbayan for violation of Section 3 (e), Republic Act No. 3019 (Anti- Graft and Corrupt Practices Act). The information alleges, among others, that the two conspired 
+
+in the purchase of several units of computer through personal canvass instead of a public bidding, causing undue injury to the municipality.
+
+Before arraignment, the accused moved for reinvestigation of the charge, which the court granted. After reinvestigation, the Office of the Special Prosecutor filed an amended information duly signed and approved by the Special Prosecutor, alleging the same delictual facts, but with an additional allegation that the accused gave unwarranted benefits to SB Enterprises owned by Samuel. Samuel was also indicted under the amended information. Before Samuel was arraigned, he moved to quash the amended information on the ground that the officer who filed the same had no authority to do so. Resolve the motion to quash with reasons. (2009 Bar Question)
+
+SUGGESTED ANSWER:
+
+The motion to quash filed by Samuel should be granted.
+
+There is no showing that the special prosecutor was duly authorized or deputized to prosecute Samuel. Under R.A. No. 6770, also known as the Ombudsman Act of 1989, the Special Prosecutor has the power and authority, under the supervision and control of the Ombudsman, to conduct preliminary investigation and prosecute criminal cases before the Sandiganbayan and perform such other duties assigned to him by the Ombudsman (Calingin v. Desierto, 529 SCRA 720 [2007])
+
+Absent a clear delegation of authority from the Ombudsman to the Special Prosecutor to file the information, the latter would have no authority to file the same. The Special Prosecutor cannot be considered an alter ego of the Ombudsman as the doctrine of qualified political agency does not apply to the Office of the Ombudsman. In fact, the powers of the Office of the Special Prosecutor under the law may be exercised only under the supervision and control and upon the authority of the Ombudsman (Perez v. Sandiganbayan, 503 SCRA 252[2006]).
+
+7.   The Ombudsman found probable cause to charge with plunder the provincial governor, vice governor, treasurer, budget officer, and accountant. An Information for plunder was filed with the Sandiganbayan against the provincial officials except for the treasurer who was granted immunity when he agreed to cooperate with the Ombudsman in the prosecution of the case. Immediately, the governor filed with the Sandiganbayan a petition for certiorari against the Ombudsman claiming there was grave abuse of discretion in excluding the treasurer from the Information. (2015
+BAR QUESTION)
+
+A) Was the remedy taken by the governor correct? SUGGESTED ANSWER:
+No, the remedy taken by the Governor is not correct. The petition for certiorari is a remedy that is only
+available when there is no plain, speedy and adequate remedy under the ordinary course of law; hence, the Governor should have filed a Motion for Reconsideration. Besides, there is no showing that the Ombudsman committed grave abuse of discretion in granting immunity to the treasurer who agreed to cooperate in the prosecution of the case.
+
+B) Will the writ of mandamus lie to compel the Ombudsman to include the treasurer in the
+Information? SUGGESTED ANSWER:
+No. Mandamus will not lie to compel the Ombudsman to include the treasurer in the Information. In matters involving the exercise of judgment and discretion, mandamus may only be resorted to in order to 
+
+compel respondent tribunal, corporation, board, officer or person to take action, but it cannot be used to direct the manner or the particular way discretion is to be exercised, or to compel the retraction or reversal of an action already taken in the exercise of judgment or discretion (Ampatuan, Jr. v. Secretary De Lima, G.R. No. 197291, April 3, 2013).
+
+Evidently, the Ombudsman’s act of granting the treasurer immunity from prosecution under such terms and conditions as it may deter mine (Section 17, R.A. 6770) is a discretionary duty that may not be compelled by the extraordinary writ of mandamus.
+
+C) Can the Special Prosecutor move for the discharge of the budget officer to corroborate the testimony of the treasurer in the course of presenting its evidence?
+
+SUGGESTED ANSWER:
+
+No. The special Prosecutor cannot move for the discharge of the budget officer to become a State witness since his testimony is only corroborative to the testimony of the treasurer. Under Section 17, Rule 119, the Court upon motion of the prosecution before resting its case, may direct one or more of the accused to be discharged with their consent so that they may be witnesses for the State, provided the following requisites are satisfied: (a) there is absolute necessity for the testimony of the accused whose discharge is requested; (b) there is no other direct evidence available for the proper prosecution of the offense committed, except the testimony of said accused; (c) the testimony of said accused can be substantially corroborated in its material points; (d) said accused does not appear to be the most guilty; and (e) said accused has not at any time been convicted of any offense involving moral turpitude. Absolute necessity exists for the testimony of an accused sought to be discharged when he or she alone has knowledge of the crime. In more concrete terms, necessity is not present when the testimony would simply corroborate or otherwise strengthen the prosecution’s evidence. The requirement of absolute necessity for the testimony of a state witness depends on the circumstances of each case regardless of the number of the participating conspirators (Manuel J. Jimenez, Jr., v. People of the Philippines, G.R. No. 209195, September 17, 2014).
+
+ALTERNATIVE ANSWER:
+
+No, the special Prosecutor cannot move for the discharge of the budget officer to become a State witness. The Office of the Special Prosecutor is merely a component of the Office of the Ombudsman and may only act under the supervision and control, and upon authority of the Ombudsman (Uy v. Sandiganbayan, G.R. No 105965 70, March 20, 2001). Accordingly, in the absence of any express delegation and authority from the Ombudsman, the Special Prosecutor does not have the power to move for the discharge of the budget officer to corroborate the testimony of the treasurer in the course of presenting its evidence (Section
+11 (3), R.A. 6770).
+
+C.Prosecution of civil action (Rule 111)
+
+8.   The Ombudsman, after conducting the requisite preliminary investigation, found probable cause to charge Gov. Matigas in conspiracy with Carpintero, a private individual, for violating Section
+3(e) of Republic Act (RA) No. 3019 (Anti- Graft and Corrupt Practices Act, as amended). Before the information could be filed with the Sandiganbayan, Gov. Matigas was killed in an ambush. This, notwithstanding, an information was filed against Gov. Matigas and Carpintero.
+
+At the Sandiganbayan, Carpintero through counsel, filed a Motion to Quash the information, on the ground of lack of jurisdiction of the Sandiganbayan, arguing that with the death of Gov. Matigas, there is no public officer charged in the information.
+
+Is the Motion to Quash legally tenable? (2014 BAR QUESTION) 
+
+
+SUGGESTED ANSWER:
+
+No. The Motion to quash is not legally tenable. While it is true that by reason of the death of Gov. Matigas, there is no longer any public officer with whom he can be charged for violation of R.A. 3019, it does not mean, however, that the allegation of conspiracy between them can no longer be proved or that their alleged conspiracy is already expunged. The only thing extinguished by the death of Gov. Matigas is his criminal liability. His death did not extinguish the crime nor did it remove the basis of the charge of conspiracy between him and Carpintero. The requirement before a private person may be indicated for violation of Section 3(g) of R.A. 3019, among others, is that such private person must be alleged to have acted in conspiracy with a public officer. The law, however, does not require that such person must, in all instances, be indicated together with the public officer. Indeed, it is not necessary to join all alleged co-conspirators in an indictment for conspiracy (People of the Philippines v. Henry T. Go, G.R. No. 168539, March 25, 2014).
+
+9.   Solomon and Faith got married in 2005. In 2010, Solomon contracted a second marriage with Hope. When Faith found out about the second marriage of Solomon and Hope, she filed a criminal case for bigamy before the Regional Trial Court (RTC) of Manila sometime in 2011. Meanwhile, Solomon filed a petition for declaration of nullity of his first marriage with Faith in 2012, while the case for bigamy before the RTC of Manila is ongoing. Subsequently, Solomon filed a motion to suspend the proceedings in the bigamy case on the ground of prejudicial question. He asserts that the proceedings in the criminal case should be suspended because if his first marriage with Faith will be declared null and void, it will have the effect of exculpating him from the crime of bigamy. Decide. (2014 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The motion filed by Solomon should be denied. The elements of prejudicial question are: (1) the previous instituted civil action involves an issue similar or intimately related to the issue determines the subsequent criminal action; and (2) the resolution of such issue determines whether or not the criminal action may proceed. In order for a prejudicial question to exist, the civil action must precede the filing of the criminal action (Dreamwork Construction, Inc. v. Janiola, G.R. No. 184861, June 30, 2009). Since the criminal case for bigamy was filed ahead of the civil action for declaration of nullity of marriage, there is no prejudicial question. At any rate, the outcome of the civil case for annulment has no bearing upon the determination of the guilt or innocence of the accused in the criminal case for bigamy because the accused has already committed the crime of bigamy when he contracted the second marriage without the first marriage having being declared null and void. Otherwise stated, he who contracts marriage during the subsistence of a previously contracted marriage runs the risk of being prosecuted for bigamy.
+
+10.  Name two instances where the trial court can hold the accused civilly liable even if he is acquitted. (2010 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The Instances where the civil, liability is not extinguished despite acquittal of the accused where:
+1)   The acquittal is based on reasonable doubt;
+2)   Where the court expressly declares that the liability of the accused is not criminal but only civil in nature; and
+3)   Where the civil liability is not derived from or based on the criminal act of which the accused is acquitted (Remedios Nota Sapiera v. Court of Appeals, September 14,1999).
+
+11.  X was driving the dump truck of Y along Cattleya Street in Sta. Maria, Bulacan. Due to his negligence, X hit and injured V who was crossing the street. Lawyer L, who witnessed the incident, offered his legal services to V. 
+
+
+V, who suffered physical injuries including a fractured wrist bone, underwent surgery to screw a metal plate to his wrist bone. On complaint of V, a criminal case for Reckless Imprudence Resulting in Serious Physical Injuries was filed against X before the Municipal Trial Court (MTC) of Sta. Maria. Atty. L, the private prosecutor, did not reserve the filing of a separate civil action.
+
+V subsequently filed a complaint for Damages against X and Y before the Regional Trial Court of Pangasinan in Urdaneta where he resides. In his "Certification against Forum Shopping” V made no mention of the pendency of the, criminal case in Sta. Maria. (2010 BAR QUESTION)
+
+A) Is V guilty of forum shopping? SUGGESTED ANSWER:
+No, V is not 'guilty of forum shopping because the case In Sta. Maria, Bulacan, Is a criminal action rued in the name of the People of the Philippines, where civil liability arising from the crime is deemed also instituted therewith; whereas the case rued in Urdaneta, Pangasinan, is a civil action for quasi-delict in, the name of V and against both X and Y for all damages caused by X and Y to V, which may be beyond the jurisdiction of MTC. Hence, the tests of forum shopping, which is res adjudicata or litis pendencia, do not obtain here.
+
+Moreover, substantive law (Art. 33 Civil Code) and Sec. 3, Rule III, Revised Rules of Criminal Procedure, expressly authorize the filing. Such, action for damages is entirely separate and distinct from the criminal action.
+
+B) Instead of filing an Answer, X and Y move to dismiss the complaint for damages on the ground of litis pendentia. Is the motion meritorious? Explain.
+
+SUGGESTED ANSWER:
+
+No, the motion' to dismiss base on alleged litis pendencia is without merit because there is no identity of parties and subject matter in the two cases. Besides, Art. 33 of the Civil Code and Rule III, Sec. 3 of the Rules of Criminal Procedure authorize the separate civil action for damages arising from physical injuries to proceed independently.
+
+C) Suppose only X was named as defendant in the complaint for damages, may he move for the dismissal of the complaint for failure of V to implead Y as an indispensable party?
+
+SUGGESTED ANSWER:
+
+No, X may not move for dismissal of the civil action for damages on the contention that Y is an indispensable party who should be impleaded. Y is not an indispensable party but only a necessary party. Besides, non-joinder and' misjoinder of parties is not a ground for dismissal of actions (Rule 3, Sec. 11, Rules of Court.)
+
+D) X moved for the suspension of the proceedings in the criminal case to await the decision in the civil case. For his part. Y moved for the suspension of the civil case to await the decision in the criminal case. Which of them is correct? Explain. 
+
+
+SUGGESTED ANSWER:
+
+Neither of them is correct. Both substantive law (Art.33 of the Civil Code) and procedural law (Rule III, Sec.
+3, and Rules of Criminal Procedure) provide for the two actions to proceed independently of each other, therefore, no suspension of action is authorized.
+
+12.  Tailors Toto, Nelson and Yenyen filed a special civil action for certiorari under Rule 65 from an adverse decision of the National Labor Relations Commission (NLRC) on the complaint for illegal dismissal against Empire Textile Corporation. They were terminated on the ground that they failed to meet the prescribed production quota at least four (4) times. The NLRC decision was assailed in a special civil action under Rule 65 before the Court of Appeals (CA). In the verification and certification against forum shopping, only Toto signed the verification and certification, while Atty. Arman signed for Nelson. Empire filed a motion to dismiss on the ground of defective verification and certification. Decide with reasons. (2016 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The motion to dismiss should be denied, because there is substantial compliance of the requirements of the rules. Verification is not a jurisdictional but merely a formal requirement which the court may motu proprio direct a party to comply with or correct, as the case may be. On the other hand, regarding the certificate of non-forum shopping, the general rule is that all the petitioners or plaintiffs in a case should sign it. However, the Supreme Court has time and again stressed that the rules on forum shopping, which were designed to promote the orderly administration of justice, do not interdict substantial compliance with its provisions under justifiable circumstances. As ruled by the Court, the signature of any of the principal petitioners or principal parties, would constitute a substantial compliance with the rule on verification and certification of non-forum shopping. And should there exist a commonality of interest among the parties, or where the parties filed the case as a collective, raising only one common cause of action or presenting a common defense, then the signature of one of the petitioners or complainants, acting as representative, is sufficient compliance (Irene Marcos-Araneta v. Court of Appeals, G.R. No. 154096, August
+22, 2008). Evidently, since there is a commonality of interest among Tailors Toto, Nelson and Yenyen, there is substantial compliance with the rules on verification and certification against forum shopping, when Toto signed the verification and certification, and Atty. Arman signed the same for Nelson.
+
+ANOTHER SUGGESTED ANSWER:
+
+The motion to dismiss should be granted. The verification and certification of non-forum shopping were not signed by all the petitioners. There was no showing that Toto nor Atty. Arman were duly authorized by the other petitioners through a special power of attorney to sign on their behalf; hence, the motion to dismiss should be granted.
+
+D.   Preliminary Investigation
+
+1.  Executive vs. judicial determination of probable cause
+
+2.  Rule 112
+
+13.  While window-shopping at the mall on August 4, 2008, Dante lost his organizer including his credit card and billing statement. Two days later, upon reporting the matter to the credit card company, he learned that a one-way airplane ticket was purchased online using his credit card for a flight to Milan in mid- August 2008. Upon extensive inquiry with the airline company, Dante 
+
+discovered that the plane ticket was under the name of one Dina Meril. Dante approaches you for legal advice.
+
+What is the proper procedure to prevent Dina from leaving the Philippines? (2010 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+I would advise:
+1.     The filing of an appropriate criminal action cognizable by the RTC against Dina and the filing in said criminal action a Motion for the issuance of a Hold Departure Order;
+2.     thereafter, a written request with the Commissioner of the Bureau of Immigration for a Watch List
+Order pending the issuance of the Hold Departure Order should be filed;
+3.     then, the airline company should be requested to cancel the ticket issued to Dina.
+
+14.  A criminal information is filed in court charging Anselmo with homicide. Anselmo files a motion to quash the information on the ground that no preliminary investigation was conducted. Will the motion be granted? Why or why not? (2009 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+NO, the motion to quash will not be granted. The lack of preliminary investigation is not a ground for a motion to quash under the Rules of Criminal Procedure. Preliminary investigation is only a statutory right and can be waived. The accused should instead file a motion for reinvestigation within five (5) days after he learns of the filing in Court of the case against him (Sec. 6, Rule 112, as amended).
+
+
+15.  On his way to the PNP Academy in Silang, Cavite on board a public transport bus as a passenger, Police Inspector Masigasig of the Valenzuela Police witnessed an on-going armed robbery while the bus was traversing Makati. His alertness and training enabled him to foil the robbery and to subdue the malefactor. He disarmed the felon and while frisking him, discovered another handgun tucked in his waist. He seized both handguns and the malefactor was later charged with the separate crimes of robbery and illegal possession of firearm.
+
+A) Where should Police Inspector Masigasig bring the felon for criminal processing? To Silang, Cavite where he is bound; to Makati where the bus actually was when the felonies took place; or back to Valenzuela where he is stationed? Which court has jurisdiction over the criminal cases? (2013 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+Police Inspector Masigasig should bring the felon to the nearest police station or jail in Makati City where the bus actually was when the felonies took place.
+
+Moreover, where an offense is committed in a public vehicle while in the course of its trip, the criminal action shall be instituted and tried in the court of any Municipality or territory where such vehicle passed during its trip, including the place of its departure and arrival (Sec. 15[b], Rule 110). Consequently, the criminal case for robbery and illegal possession of firearms can be filed in Regional Trial Court of Makati City or on any of the places of departure or arrival of the bus.
+
+B) May the charges of robbery and illegal possession of firearm be filed directly by the investigating prosecutor with the appropriate court without a preliminary investigation? (2013
+BAR QUESTION) 
+
+
+SUGGESTED ANSWER:
+
+YES. Since the offender was arrested in flagrante delicto without a warrant of arrest, an inquest proceeding should be conducted and thereafter a case may be filed in court even without the requisite preliminary investigation.
+
+Under Section 7, Rule 112, when a person is lawfully arrested without a warrant involving an offense which requires preliminary investigation, the complaint or information may be filed by a prosecutor without the need of such investigation provided an inquest has been conducted in accordance with existing rules. In the absence or unavailability of an inquest prosecutor, the complaint may be filed by the offended party or a peace officer directly with the proper court on the basis of the affidavit of the offended party or arresting officer or person.
+
+16.  You are the defense counsel of Angela Bituin who has been charged under RA 3019 (Anti-Graft and Corrupt Practices Act ) before the Sandiganbayan. While Angela has posted bail, she has yet to be arraigned. Angela revealed to you that she has not been investigated for any offense and that it was only when police officers showed up at her residence with a warrant of arrest that she learned of the pending case against her. She wonders why she has been charged before the Sandiganbayan when she is not in government service.
+
+A) What "before-trial" remedy would you invoke in Angela’s behalf to address the fact that she
+had not been investigated at all, and how would you avail of this remedy? (2013 BAR Question) SUGGESTED ANSWER:
+I will file a motion for the conduct of preliminary investigation or reinvestigation and the quashal or recall of the warrant of arrest in the Court where the case is pending with an additional prayer to suspend the arraignment.
+
+Under Section 6, Rule 112 of the Rules of Court, after filing of the complaint or information in court without a preliminary investigation, the accused may within five days from the time he learns of its filing ask for a preliminary investigation with the same right to adduce evidence in his defense.
+
+Moreover, Section 26, Rule 114 of the Rules of Criminal Procedure provides that an application for or admission to bail shall not bar the accused from challenging the validity of his arrest or the legality of the warrant issued therefor, or from assailing the regularity or questioning the absence of a preliminary investigation of the charge against him, provided that he raises them before entering his plea. The court shall resolve the matter as early as practicable as but not later than the start of the trial of the case.
+
+B) What "during-trial" remedy can you use to allow an early evaluation of the prosecution evidence without the need of presenting defense evidence; when and how can you avail of this remedy? (2013 BAR Question)
+
+SUGGESTED ANSWER:
+
+I will file first a motion for leave to file a demurrer within five (5) days from the time the prosecution rested its case. If the same is granted, then I will now file a demurrer to evidence within ten (10) days (Sec. 23, Rule
+119). This remedy would allow the evaluation of the sufficiency of prosecution’s evidence without the need of presenting defense evidence. It may be done through the court’s initiative or upon motion of the accused and after the prosecution rested its case (Sec. 23, Rule 119). 
+
+17.  The mutilated cadaver of a woman was discovered near a creek. Due to witnesses attesting that he was the last person seen with the woman when she was still alive, Carlito was arrested within five hours after the discovery of the cadaver and brought to the police station. The crime laboratory determined that the woman had been raped. While in police custody, Carlito broke down in the presence of an assisting counsel and orally confessed to the investigator that he had raped and killed the woman, detailing the acts he had performed up to his dumping of the body near the creek. He was genuinely remorseful. During the trial, the State presented the investigator to testify on the oral confession of Carlito. Is the oral confession admissible as evidence, of guilt? (2008 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+No, the oral confession is not admissible as evidence of guilt of Carlito because he was already under arrest and in police custody when he made the extrajudicial confession and the mandates of Rep. Act No. 7438, particularly Sections 2, par. (d), have not been complied with. Non-compliance with said par. (d) of the law expressly renders the extrajudicial confession inadmissible as evidence in any proceeding.
+
+He was not informed of his right to be warned and he was not informed of the Miranda right particularly the right to remain silent. Additionally, it does not appear that counsel present was his counsel of choice.
+
+18.  When does a public prosecutor conduct an inquest instead of a preliminary investigation? (2017
+BAR QUESTION) SUGGESTED ANSWER:
+Under the Rules of Criminal Procedure, the public prosecutor conducts an inquest instead of a preliminary investigation when a person is lawfully arrested without a warrant involving an offense which requires a preliminary investigation. [S6 R112]
+
+19.  Engr. Magna Nakaw, the District Engineer of the DPWH in the Province of Walang Progreso, and Mr. Pork Chop, a private contractor, were both charged in the Office of the Ombudsman for violation of the Anti-Graft and Corrupt Practices Act (R.A. No. 3019) under a conspiracy theory.
+
+While the charges were undergoing investigation in the Office of the Ombudsman, Engr. Magna Nakaw passed away. Mr. Pork Chop immediately filed a motion to terminate the investigation and to dismiss the charges against him, arguing that because he was charged in conspiracy with the deceased, there was no longer a conspiracy to speak of and, consequently, any legal ground to hold him for trial had been extinguished.
+
+Rule on the motion to terminate filed by Mr. Pork Chop, with brief reasons. (2017 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+Mr. Pork Chop’s motion to terminate the investigation before the Office of the Ombudsman is denied.
+
+In a case involving similar facts, the Supreme Court held that the death of a co-conspirator, even if he was the lone public officer, did not mean that the allegation of conspiracy to violate the Anti-Graft Law could no longer be proved or that the alleged conspiracy was already expunged. The only thing extinguished by the death of a co-conspirator was his criminal liability. His death did not extinguish the crime nor did it remove the basis of the charge of conspiracy between him and private respondent. [People v. Go, 25 March
+2014, Peralta, J.] 
+
+E.Arrest (Rule 113)
+
+20. As  Cicero  was  walking  down  a  dark  alley  one  midnight,  he  saw an  "owner-type  jeepney" approaching him. Sensing that the occupants of the vehicle were up to no good, he darted into a corner and ran. The occupants of the vehicle- elements from the Western Police District - gave chase and apprehended him.
+
+The police apprehended Cicero, frisked him and found a sachet of 0.09 gram of shabu tucked in his waist and a Swiss knife in his secret pocket, and detained him thereafter. Is the arrest and body-search legal? (2010 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The arrest and body-search was legal. Cicero appears to be alone "walking down a dark alley" and at midnight. There appears probable cause for the policemen to check him, especially when he darted into a corner (presumably also dark) and run under such circumstance. Although the arrest came after the body- search where Cicero was found with shabu and a Swiss knife, the body search is legal under the "Terry search" rule or the "stop and frisk" rule. And because the mere possession, with animus, of dangerous drug (the shabu) is a violation of the law (Rep. Act 9165), the suspect is in a continuing state of committing a crime while he is illegally possessing the dangerous drug, thus making the arrest tantamount to an arrest in flagrante: so the arrest is legal and correspondingly, the search and seizure of the shabu and the concealed knife may be regarded as incident to a lawful arrest.
+
+ALTERNATIVE ANSWER:
+
+No. The arrest and the body-search were not legal. In this case, Cicero did not run because the occupants of the vehicle identified themselves as police officers. He darted into the corner and ran upon the belief that the Occupants of the vehicle were up to no good. Cicero's act of running does not show any reasonable ground to believe that a crime has been committed or is about to be committed for the police officers to apprehend him and conduct body search. Hence, the arrest was illegal as it does not fall under any of the circumstances for a valid warrantless arrest provided in Sec. 5 of Rule 113 of the Rules of Criminal Procedure.
+
+21.  X was arrested for the alleged murder of a 6-year Old lad. He was read his Miranda rights immediately upon being apprehended.
+
+In the course of his detention, X was subjected to three hours of non-stop interrogation. He remained quiet until, on the 3rd hour, he answered "yes" to the question of whether "he prayed for forgiveness for shooting down the boy." The trial court) interpreting X's answer as an admission of guilt, convicted him.
+
+On appeal, X's counsel faulted the trial court in its interpretation of his client's answer, arguing that X invoked his Miranda rights when he remained quiet for the first two hours of questioning. Rule on the assignment of error. (2010 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The assignment of error invoked by X's counsel is impressed with merit since there has been no express waiver of X's Miranda rights. In order to have a valid waiver of the Miranda rights, the same must be in writing and made in the presence of his counsel. The uncounseled extrajudicial confession of X being without a valid waiver of his Miranda rights, is inadmissible, as well as any information derived therefrom. 
+
+22. On his way home, a member of the Caloocan City police force witnessed a bus robber in Pasay City and effects the arrest of the suspect. Can he bring the suspect to Caloocan City for booking since that is where his station is? Explain briefly. (2007 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+No, the arresting officer may not take the arrested suspect from Pasay City to Caloocan City. The arresting officer is required to deliver the person arrested without a warrant “to the nearest police station or jail” (Rule 112, sec. 5, 2000 Rules of Criminal Procedure). To be sure, the nearest police station or jail is in Pasay City where the arrest was made, and not in Caloocan City.
+
+23. An information for murder was filed against Rapido. The RTC judge, after personally evaluating the prosecutor's resolution, documents and parties' affidavits submitted by the prosecutor, found probable cause and issued a warrant of arrest. Rapido's lawyer examined the rollo of the case and found that it only contained the copy of the information, the submissions of the prosecutor and a copy of the warrant of arrest. Immediately, Rapido's counsel filed a motion to quash the arrest warrant for being void, citing as grounds:
+A) The judge before issuing the warrant did not personally conduct a searching examination of
+the prosecution witnesses in violation of his client's constitutionally-mandated rights;
+B) There was no prior order finding probable cause before the judge issued the arrest warrant.
+
+May the warrant of arrest be quashed on the grounds cited by Rapido's counsel? State your reason for each ground. (2015 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+No, the warrant of arrest may not be quashed based on the grounds cited by Rapido’s counsel. In the issuance of a warrant of arrest, the mandate of the Constitution is for the judge to personally determine the existence of probable cause. The words “personal determination,” was interpreted by the Supreme Court in Soliven v. Makasiar, (G.R. No. 82585, November 14, 1988, 167 SCRA 393, 406), as the exclusive and personal responsibility of the issuing judge to satisfy himself, as to the existence of probable cause. What the law requires as personal determination on the part of a judge is that he should not rely solely on the report of the investigating prosecutor. Thus, personal examination of the complainant and his witnesses is, thus, not mandatory and indispensable in the determination of probable cause for the issuance of a warrant of arrest (People v. Joseph “Jojo” Grey, G.R. No. 10109, July 26, 2010). At any rate, there is no law or rule that requires the Judge to issue a prior Order finding probable cause before the issuance of a warrant of arrest.
+
+24. Hercules was walking near a police station when a police officer signaled for him to approach. As soon as Hercules came near, the police officer frisked him but the latter found no contraband. The police officer told Hercules to get inside the police station. Inside the police station, Hercules asked the police officer, "Sir, may problema po ba?" Instead of replying, the police officer locked up Hercules inside the police station jail. (2015 BAR QUESTION)
+
+A) What is the remedy available to Hercules to secure his immediate release from detention? SUGGESTED ANSWER:
+The remedy available to Hercules is to file a petition for habeas corpus questioning the illegality of his warrantless arrest. The writ of habeas corpus shall extend to all cases of illegal confinement or detention by which any person is deprived of his liberty (Section 1, Rule 102, Rules of Court).
+
+ALTERNATIVE ANSWER: 
+
+Hercules may also apply for bail. Under Section 17 (c), Rule 114 of the Rules of Court, any person in custody who is not yet charged in court may apply for bail with any court in the province, city or municipality where he is held.
+
+B) If Hercules filed with the Ombudsman a complaint for warrantless search, as counsel for the police officer, what defense will you raise for the dismissal of the complaint?
+
+SUGGESTED ANSWER:
+
+As counsel of the policemen, I will raise the defense of presumption of  regularity in the performance of duty. I can also raise the defense that the police officer has the duty to search Hercules under the “Stop and Frisk” rule. A stop-and-frisk situation must precede a warrantless arrest, be limited to the person’s outer clothing, and should be grounded upon a genuine reason, in the light of the police office and surrounding conditions, to warrant the belief that detained has weapons concealed about him. (Valdez v. People, G.R. No. 170180, November 23, 2007).
+
+The “stop and frisk” search should be used when dealing rapidly unfolding and potentially criminal situation in the city streets where unarguably there is no time to secure a search warrant. “Stop and frisk” searches (sometimes referred to as Terry searches) necessary for law enforcement, that is, law enforcers should be given the legal arsenal to prevent the commission of offenses. This should be balanced, however, with the need to protect the privacy of citizens in accordance with Article III, Section 2 of the Constitution (People of the Philippines v. Victor Cogaed, G.R. No. 200334, July 30, 2014). In addition, I may also assert the defense that the complaint for warrantless search charges no criminal offense. The conduct of a warrantless search is not a criminal act, for it is not penalized under the Revised Penal Code or any other special laws.
+
+ALTERNATIVE ANSWER:
+
+As counsel for the police officer, I will argue that the Ombudsman has no jurisdiction over the complaint filed by Hercules. While the Ombudsman has disciplinary authority over officials and members of the PNP concurrently with NAPOLCOM and PNP, the Memorandum of Agreement executed by and among the Ombudsman, PNP and NAPOLCOM on September 12, 2012 specifies the administrative cases that are within the primary jurisdiction of the Ombudsman. Since the complaint filed against my client is not among those administrative cases under the primary jurisdiction of the Ombudsman, the complaint should necessarily be dismissed.
+
+C) If Hercules opts to file a civil action against the police officer, will he have a cause of action? SUGGESTED ANSWER:
+Yes. Hercules has a cause of action to file a civil action against the police officer under Article 32 (4) in
+relation to Article 2219 (6) and (10) of the New Civil Code, which provides that a public officer may be liable for damages when the right to be secure in one’s person, house, papers and effects against unreasonable searches and seizures is impaired. The indemnity includes moral damages. Exemplary damages may also be adjudicated (Galvante v. Casimiro, G.R. No. 162808, April 22, 2008).
+
+25. Under Section 5, Rule 113 a warrantless arrest is allowed when an offense has just been committed and the peace officer has probable cause to believe, based on his personal knowledge of facts or circumstances, that the person to be arrested has committed it. A policeman approaches you for advice and asks you how he will execute a warrantless arrest against a murderer who escaped after killing a person. The policeman arrived two (2) hours after the killing and a certain Max was allegedly the killer per information given by a witness. He asks you to clarify the following: (2016
+BAR QUESTION) 
+
+A) How long after the commission of the crime can he still execute the warrantless arrest? SUGGESTED ANSWER:
+In executing a warrantless arrest under Section 5, Rule 113, the Supreme Court held that the requirement
+that an offense has just been committed means that there must be a large measure of immediacy between the time the offense was committed and the time of the arrest (Joey M. Pestilos v. Moreno Generoso, G.R. No.
+182601, November 10, 2014). If there was an appreciable lapse of time between the arrest and the commission of the crime, a warrant of arrest must be secured. In any case, personal knowledge by the arresting officer is an indispensable requirement to the validity of a valid warrantless arrest. The exact period varies on a case to case basis. In People v. Gerente (G.R. Nos. 95847-48, March 10, 1993), the Supreme Court ruled that a warrantless arrest was validly executed upon therein accused three (3) hours after the commission of the crime. In People v. Tonog, Jr. (G.R. No. 94533. February 4, 1992), the Supreme Court likewise upheld the valid warrantless arrest which was executed on the same day as the commission of the crime. However, in People v. Del Rosario (G.R. No. 127755. April 14, 1999, 365 Phil. 292), the Supreme Court held that the warrantless arrest effected a day after the commission of the crime is invalid. In Go v. Court of Appeals (G.R. No. 101837, February 11, 1992), Supreme Court also declared invalid a warrantless arrest effected 6 days after the commission of the crime.
+
+B) What does "personal knowledge of the facts and circumstances that the person to be arrested committed it" mean?
+
+SUGGESTED ANSWER:
+
+The phrase “personal knowledge of the facts and circumstances that the person to be arrested committed it” means that matters in relation to the supposed commission of the crime were within the actual perception, personal evaluation or observation of the police officer at the scene of the crime. Thus, even though the police officer has not seen someone actually fleeing, he could still make a warrantless arrest if, based on his personal evaluation of the circumstances at the scene of the crime, he could determine the existence of probable cause that the person sought to be arrested has committed the crime; however, the determination of probable cause and the gathering of facts or circumstances should be made immediately after the commission of the crime in order to comply with the element of immediacy.
+
+The arresting officer’s determination of probable cause under Section 5(b), Rule 113 of the Revised Rules of Criminal Procedure is based on his personal knowledge of facts or circumstances that the person sought to be arrested has committed the crime. These facts or circumstances pertain to actual facts or raw evidence, i.e., supported by circumstances sufficiently strong in themselves to create the probable cause of guilt of the person to be arrested. A reasonable suspicion therefore must be founded on probable cause, coupled with good faith on the part of the peace officers making the arrest. The probable cause to justify warrantless arrest ordinarily signifies a reasonable ground of suspicion supported by circumstances sufficiently strong in themselves to warrant a cautious man to believe that the person accused is guilty of the offense with which he is charged, or an actual belief or reasonable ground of suspicion, based on actual facts (Joey M. Pestilos v. Moreno Generoso, G.R. No. 182601, November 10, 2014).
+
+26. Give at least two instances when a peace officer or a private person may make a valid warrantless arrest. (2017 Bar Question)
+
+SUGGESTED ANSWER:
+
+Under Section 5, Rule 113 of the Rules of Court, a peace officer or a private person may, without a warrant, arrest a person: 
+
+(a) When, in his presence, the person to be arrested has committed, is actually committing, or is attempting to commit an offense;
+
+(b) When an offense has just been committed, and he has probable cause to believe based on personal knowledge of facts or circumstances that the person to be arrested has committed it; and
+
+(c) When the person to be arrested is a prisoner who has escaped from a penal establishment or place where he is serving final judgment or is temporarily confined while his case is pending, or has escaped while being transferred from one confinement to another.
+
+F. Bail (Rule 114)
+
+27. A was charged with a non-bailable offense. At the time when the warrant of arrest was issued, he was confined in the hospital and could not obtain a valid clearance to leave the hospital. He filed a petition for bail saying therein that he be considered as having placed himself under the jurisdiction of the court. May the court entertain his petition? Why or why not? (2012 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+No, the court may not entertain his petition as he has not yet been placed under arrest. A must be “literally” placed under the custody of the law before his petition for bail could be entertained by the court (Miranda vs. Tuliao, G.R. No. 158763, March 31, 2006)
+
+ALTERNATIVE ANSWER:
+
+Yes, a person is deemed to be under the custody of the law either when he has been arrested or has surrendered himself to the jurisdiction of the court. the accused who is confined in a hospital may be deemed to be in the custody of the law if he clearly communicates his submission to the court while he is confined in the hospital. (Paderanga vs. Court of Appeals, G.R. No. No. 115407, August 28, 1995).
+
+28. A was charged with murder in the lower court. His Petition for Bail was denied after a summary hearing on the ground that the prosecution had established a strong evidence of guilt. No Motion for Reconsideration was filed from the denial of the Petition for Bail. During the reception of the evidence of the accused, the accused reiterated his petition for bail on the ground that the witnesses so far presented by the accused had shown that no qualifying aggravating circumstance attended the killing. The court denied the petition on the grounds that it had already ruled that: (i) the evidence of guilt is strong; (ii) the resolution for the Petition for Bail is solely based on the evidence presented by the prosecution; and (iii) no Motion for Reconsideration was filed from the denial of the Petition for Bail. (2014 BAR QUESTION)
+
+A) If you are the Judge, how will you resolve the incident? SUGGESTED ANSWER:
+If I were the Judge, I would grant the second Petition for Bail. Under Section 7, Rule 114, Rules of Court, no person charged with a capital offense, or an offense punishable by reclusion perpetua or life imprisonment, shall be admitted to bail when evidence of guilt is strong, regardless of the stage of the criminal prosecution. In this case, the evidence of guilt for the crime of murder is not strong, as shown by the prosecution’s failure to prove the circumstance that will qualify the crime to, and consequently convict the accused of, murder. Accordingly, the accused should be allowed to post bail because the evidence of 
+
+his guilt is no strong (Sec. 13, Art. III, 1987 Constitution). Besides, it is settled that an Order granting bail is merely interlocutory which cannot attain finality (Pobre v. People, G. R. No. 141805, July 8, 2015).
+
+B) Suppose the accused is convicted of the crime of homicide and the accused filed a Notice of
+Appeal, is he entitled to bail? SUGGESTED ANSWER:
+YES. The accused is entitled to bail subject to the discretion of the Court. Under Section 5, Rule 114, Rules of Court, the appellate Court may allow him to post bail because the Trial Court in convicting him, changed the nature of the offense from non- bailable to bailable. Be that as it may, the denial of bail pending appeal is a matter of wise discretion since after conviction by the trial court, the presumption of innocence terminates and, accordingly, the constitutional right to bail ends. (Jose Antonio Leviste v. Court of Appeals, G.R. No. 189122, March 17, 2010).
+
+29. A was charged before the Sandiganbayan with a crime of plunder, a non- bailable offense, where the court had already issued a warrant for his arrest. Without A being arrested, his lawyer filed a Motion to Quash Arrest Warrant and to Fix Bail, arguing that the allegations in the information did not charge the  crime of plunder but a crime of malversation, a bailable offense. The court denied the motion on the ground that it had not yet acquire jurisdiction over the person of the accused and that the accused should be under the custody of the court since the crime charged was non-bailable. The accused’s lawyer counter- argued that the court can rule on the motion even if the accused was at-large because it had jurisdiction over the subject matter of the case. According to said lawyer, there was no need for the accused to be under the custody of the court because what was filed was a Motion to Quash Arrest and to Fix Bail not a Petition for Bail. (2014
+BAR QUESTION)
+
+A) If you are the Sandiganbayan, how will you rule on the motion? SUGGESTED ANSWER:
+I will grant the Motion to quash the warrant of arrest but I will deny the Motion to fix bail. A motion to fix bail is essentially an application for bail (People v. Bucalon, G.R. No. 176933, October 2, 2009). Relative thereto, bail is the security for the release of the person in the custody of the law (Sec. 1, Rule 114). The Rules use the word “custody” to signify that bail is only available for someone who is under the custody of the law (Peter Paul Dimatulac v. Hon. Sesinando Villon, G.R. No. 127107, October 12, 1998). Hence, A cannot seek any judicial relief if he does not submit his person to the jurisdiction of the Sandiganbayan.
+
+On the other hand, the Sandiganbayan may grant the Motion to quash the warrant of arrest. It is well settled that adjudication of a motion to quash a warrant of arrest requires neither jurisdiction over the person of the accused nor custody of law over the body of the accused. Otherwise stated, an accused can invoke the processes of the court even if he is not in the custody of the law (Jose C. Miranda v. Virgilio M. Tuliao, G.R. No. 158763, March 31, 2006). Thus, Sandiganbayan may grant the Motion to quash the warrant of arrest.
+
+B) If the Sandiganbayan denies the motion, what judicial remedy should the accused undertake? SUGGESTED ANSWER:
+The accused may file a Motion for Reconsideration. If the same is denied, the accused may resort to a
+Petition for Certiorari under Rule 65 directly to the Supreme Court.
+
+30. An indigent mother seeks assistance for her 14-year old son who has been arrested and detained for malicious mischief. Would an application for bail be the appropriate remedy or is there another 
+
+remedy available? Justify your chosen remedy and outline the appropriate steps to take. (2013 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+YES. An application for bail is an appropriate remedy to secure provisional remedy of the 14-year old boy. Under the Rules, bail is a matter of right before or even after conviction before the MTC which has jurisdiction over the crime of malicious mischief (Sec. 4, Rule 114). Consequently, bail can be posted as a matter of right.
+
+31.  Paz was awakened by a commotion coming from a condo unit next to hers. Alarmed, she called up the nearby police station. PO 1 Remus and P02 Romulus proceeded to the condo unit identified by Paz. PO 1 Remus knocked at the door and when a man opened the door, POI Remus and his companions introduced themselves as police officers. The man readily identified himself as Oasis Jung and gestured to them to come in. Inside, the police officers saw a young lady with her nose bleeding and face swollen. Asked by P02 Romulus what happened, the lady responded that she was beaten up by Oasis Jung. The police officers arrested Oasis Jung and brought him and the young lady back to the police station. PO1 Remus took the young lady's statement who identified herself as AA. She narrated that she is a sixteen-year-old high school student; that previous to the incident, she had sexual intercourse with Oasis Jung at least five times on different occasions and she was paid P5,000.00 each time and it was the first time that Oasis Jung physically hurt her. P02
+Romulus detained Oasis Jung at the station's jail. After the inquest proceeding, the public prosecutor filed an information for Violation of R.A. No. 9262 (Anti-VAWC Law) for physical violence and five separate informations for violation of R.A. No. 7610 (The Child Abuse Law). Oasis Jung's lawyer filed a motion to be admitted to bail but the court issued an order that approval of his bail bond shall be made only after his arraignment. (2015 BAR QUESTION)
+
+A) Did the court properly impose that bail condition? SUGGESTED ANSWER:
+No. The court did not properly impose the bail condition. The Rules of Criminal Procedure do not require
+the arraignment of the accused as a prerequisite to the conduct of the bail hearing. A person is allowed to file a petition for bail as soon as he is deprived of his liberty by virtue of his arrest or voluntary surrender. An accused need not wait for his arraignment before filing the petition for bail (Serapio v. Sandiganbayan, G.R. No. 149116, January 28, 2003).
+
+Moreover, the condition that the approval of bail bonds shall be made only after arraignment would place the accused in a position where he has to choose between: (1) filing a motion to quash (the Information) and thus delay his released on bail because until his motion to quash can be resolved, his arraignment cannot be held; and (2) foregoing the filing of a motion to quash (the Information) so that he can be arraigned at once and thereafter be released on bail (Lavides v. Court of Appeals, G.R. No. 129670, February 1,
+2000).
+
+B) Before arraignment, Oasis Jung's lawyer moved to quash the other four separate informations for violation of the child abuse law invoking the single larceny rule. Should the motion to quash be granted?
+
+SUGGESTED ANSWER:
+
+No. The Court should not grant the motion to quash, because the “single larceny rule” does not find application where the charges involve violations of R.A. 9262 (The VAWC Law) and R.A. No. 7610 (The Child Abuse Law), considering that each criminal act is based on a different criminal impulse and intent. 
+
+
+In Santiago v. Garchitorena (G.R. No. 109266 December 2, 1993), the Supreme Court explained that the “Single Larceny doctrine” applies only to crimes committed delito continuado, which exists if there should be a plurality of acts performed during a period of time; unity of penal provision violated; and unity of criminal intent or purpose, which means that two or more violations of the same penal provisions are united in one and same instant or resolution leading to the perpetration of the same criminal purpose or aim. The said rule applies in theft cases, where the taking of several things, whether belonging to the same or different owners, at the same time and place constitutes but one larceny (Santiago v. Garchitorena, G.R. No. 109266, December 2, 1993).
+
+[Note: The Committee respectfully recommends that the examinees be given full credit to any answer provided to the question because the single larceny rule is not included in the 2015 BAR Examination Syllabus in Remedial Law).
+
+C) After his release from detention on bail, can Oasis Jung still question the validity of his arrest? SUGGESTED ANSWER:
+Yes. Oasis Jung can still question the validity of his arrest even after his release from detention on bail.
+Under Section 26, Rule 114 of the Rules of Court, an application for or admission to bail shall not bar the accused from challenging the validity of his arrest or the legality of the warrant issued therefor, or from assailing the regularity or questioning the absence of a preliminary investigation of the charge against him, provided that he raises them before entering his plea.
+
+32. When is bail a matter of judicial discretion? (2017 BAR QUESTION) SUGGESTED ANSWER:
+Bail is a matter of judicial discretion:
+1)   Before conviction by the RTC of an offense punishable by death, reclusion perpetua, or life imprisonment.
+2)   After conviction by the RTC of an offense not punishable by death, reclusion perpetua, or life imprisonment.
+
+G.Arraignment and plea (Rule 116)
+
+33. Juancho entered a plea of guilty when he was arraigned under an information for homicide. To determine the penalty to be imposed, the trial court allowed Juancho to present evidence proving any mitigating circumstance in his favor. Juancho was able to establish complete self-defense.
+Convinced by the evidence adduced by Juancho, the trial court rendered a verdict of acquittal. May the Prosecution assail the acquittal without infringing the constitutional guarantee against
+double jeopardy in favor of Juancho? Explain your answer. (2017 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+Yes, the Prosecution may assail the acquittal without infringing upon the constitutional guarantee against double jeopardy. 
+
+Under the Rules of Criminal Procedure, a requirement for a first jeopardy to attach is that there must have been a valid plea by the accused. Said rules also provide that when the accused pleads guilty but presents exculpatory evidence, his plea shall be deemed withdrawn and a plea of guilty shall be entered for him.
+
+Here Juancho’s plea of guilty was deemed withdrawn when he presented exculpatory evidence to the effect that he acted in self-defense. Hence his plea of guilty was deemed withdrawn and a plea of guilty should have been entered for him by the court, which however was not done.
+
+Since there was no standing plea, a first jeopardy did not attach and thus the Prosecution may assail the
+acquittal without infringing upon Juancho’s right against double jeopardy. (People v. Balisacan, 31 August
+1966)
+
+H.   Motion to quash (Rule 117)
+
+34. What is "res judicata in prison grey"? (2%) SUGGESTED ANSWER:
+“Res judicata in prison grey” is the criminal concept of double jeopardy, as “res judicata” is the doctrine of
+civil law (Trinidad vs. Office of the Ombudsman, G.R. No. 166038, December 4, 2007).
+
+Described as “res judicata in prison grey,” the right against double jeopardy prohibits the prosecution of a person for a crime of which he has been previously acquitted or convicted. The purpose is to set the effects of the first prosecution forever at rest, assuring the accused that he shall not thereafter be subjected to the danger and anxiety of a second charge against him for the same offense (Joel B. Caes vs. Intermediate Appellate Court, November 6, 1989).
+
+35. Which of the following distinguishes a motion to quash from a demurrer to evidence? (2013 BAR QUESTION)
+
+A)  A motion to quash a complaint or information is filed before the prosecution rests its case.
+B)  A motion to quash may be filed with or without leave of court, at the discretion of the accused. C)  When a motion to quash is granted, a dismissal of the case will not necessarily follow.
+D) The grounds for a motion to quash are also grounds for a demurrer to evidence.
+E)  The above choices are all wrong. SUGGESTED ANSWER:
+(C) When a motion to quash is granted, a dismissal of the case will not necessarily follow.
+
+36. The information against Roger Alindogan for the crime of acts of lasciviousness under Article 336 of the Revised Penal Code avers:
+
+"That on or about 10:30 o'clock in the evening of February 1, 2010 at Barangay Matalaba, Imus, Cavite and within the jurisdiction of this Honorable Court, the above-named accused, with lewd and unchaste design, through force and intimidation, did then and there, wilfully, unlawfully and feloniously commit sexual abuse on his daughter, Rose Domingo, a minor of 11 years old, either by raping her or committing acts of lasciviousness on her, against her will and consent to her damage and prejudice.
+
+ACTS CONTRARY TO LAW." 
+
+The accused wants to have the case dismissed because he believes that the charge is confusing and the information is defective. What ground or grounds can he raise in moving for the quashal of the information? Explain. (2016 Bar Question)
+
+SUGGESTED ANSWER:
+
+The accused may move to quash the information based on any of the following grounds: (a) That the facts charged do not constitute an offense; (b) That it does not conform substantially to the prescribed form; and (c) That more than one offense is charged except when a single punishment for various offenses is prescribed by law (Section 3 Rule 117, Rules of Criminal Procedure).
+
+In People v. dela Cruz (G.R. Nos. 135554-56, June 21, 2002, 383 SCRA 410); the Supreme Court ruled that the phrase “either by raping her or committing acts of lasciviousness” does not constitute an offense since it does not cite which among the numerous sections or subsections of R.A. No. 7610 has been violated by accused-appellant. Moreover, it does not state the acts and omissions constituting the offense, or any special or aggravating circumstances attending the same, as required under the rules of criminal procedure. These are conclusions of law, and not facts. Thus, the information violated accused’s constitutional right to be informed of the nature and cause of the accusation against him and therefore should be quashed on the ground that the information charges acts that do not constitute an offense.
+
+37. Boy Maton, a neighborhood tough guy, was arrested by a police officer on suspicion that he was keeping prohibited drugs in his clutch bag. When Boy Maton was searched immediately after the arrest, the officer found and recovered 10 sachets of shabu neatly tucked in the inner linings of the clutch bag. At the time of his arrest, Boy Maton was watching a basketball game being played in the town plaza, and he was cheering for his favorite team. He was subsequently charged with illegal possession of dangerous drugs, and he entered a plea of not guilty when he was arraigned.
+
+During the trial, Boy Maton moved for the dismissal of the information on the ground that the facts revealed that he had been illegally arrested. He further moved for the suppression of the evidence confiscated from him as being the consequence of the illegal arrest, hence, the fruit of the poisonous tree.
+
+The trial court, in denying the motions of Boy Maton, explained that at the time the motions were filed Boy Maton had already waived the right to raise the issue of the legality of the arrest. The trial court observed that, pursuant to the Rules of Court, Boy Maton, as the accused, should have assailed the validity of the arrest before entering his plea to the information. Hence, the trial court opined that any adverse consequence of the alleged illegal arrest had also been equally waived.
+
+Comment on the ruling of the trial court. (2017 BAR QUESTION) SUGGESTED ANSWER:
+The ruling of the court denying the motion for dismissal of the information on the ground of illegal arrest is proper.
+
+Under the Rules of Criminal Procedure, the accused’s failure to file a motion to quash before plea is a
+waiver of the objection to lack of personal jurisdiction or of the objection to an illegal arrest. [S9 R117]
+
+Here Boy Maton entered a plea without filing a motion to quash on the ground of lack of personal jurisdiction. Hence he is deemed to have waived the ground of illegal arrest which is subsumed under lack of personal jurisdiction.
+
+However, the ruling denying the motion to suppress evidence is not correct. 
+
+
+The Supreme Court has held that a waiver of an illegal, warrantless arrest does not carry with it a waiver of the inadmissibility of evidence seized during an illegal warrantless arrest. [People v. Racho, 3 Aug 2010]. A waiver of an illegal arrest is not a waiver of an illegal search. [Villanueva v. People, 17 Nov 2014, Sereno, C.J.] The Constitution provides that evidence seized in violation of the right against illegal search is inadmissible in evidence.
+
+Hence the evidence seized was by virtue of an illegal search since the arrest was illegal. Hence such evidence may be suppressed.
+
+I. Pre-trial (Rule 118)
+
+38. Bembol was charged with rape. Bembol’s father, Ramil, approached Artemon, the victim’s father, during the preliminary investigation and offered P1 Million to Artemon to settle the case. Artemon refused the offer.
+
+During the pre-trial, Bembol personally offered to settle the case for P1 Million to the private prosecutor, who immediately put the offer on record in the presence of the trial judge. Is Bembol’s offer a judicial admission of his guilt? (2008 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+No. The offer is not a judicial admission of guilt because it has not been reduced in writing or signed by the accused. The Rule on pre-trial in criminal cases (Rule 118, Sec. 2, Rules of Court) requires that all agreements or admissions made or entered during the pre-trial conference shall be reduced in writing and signed by the accused and counsel, otherwise, they cannot be used against the accused.
+
+A) During trial, the prosecution presented Artemon to testify on Ramil’s offer and thereby establish an implied admission of guilt. Is Ramil’s offer to settle admissible in evidence? (2008 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+No. The offer to settle not being made by the accused or with his participation is not admissible against him under the rule of res inter alios acta. No implied admission of guilt can be drawn from efforts to settle a criminal case out of court, where the accused had no participation in such negotiation (People v. Godoy,
+250 SCRA 676 [1995]).
+
+ALTERNATIVE ANSWER:
+
+It has been held, however, that the offer to settle made by relatives of the accused is admissible as an implied admission of guilt. (People v. Salvador, 396 SCRA 298 [2003])
+
+J. Trial (Rule 119)
+
+39. TRUE or FALSE. The accused in a criminal case has the right to avail of the various modes of discovery. (2009 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+FALSE. The accused in criminal case only has the right to avail of conditional examination of his witness before a judge, or, if not practicable, a member of a Bar in good standing so designated by the judge in the 
+
+order, or if the order be made by a court of superior jurisdiction, before an inferior court to be designated therein. (Sec.12 &13, Rule 119).
+
+Modes of discovery under civil actions does not apply to criminal proceedings because the latter is primarily governed by the REVISED RULES OF CRIMINAL PROCEDURE (Vda. de Manguerravs Risos, 563 SCRA
+499).
+
+40. Maria was accused of libel. While Maria was on the witness stand, the prosecution asked her to write her name and to sign on a piece of paper, apparently to prove that she authored the libelous material. Maria objected as writing and signing her name would violate her right against self- incrimination. Was Maria’s objection proper? (2013 BAR Question)
+A)  No, she can be cross examined just like any other witness and her sample signature may be
+taken to verify her alleged authorship of the libelous statements.
+B)  No, her right against self-incrimination is waived as soon as she became a witness.
+C)  No, this privilege may be invoked only by an ordinary witness and not by the accused when she opts to take the witness stand.
+D) The objection was improper under all of A, B, and C.
+E)  The objection was proper as the right to self-incrimination is a fundamental right that affects liberty and is not waived simply because the accused is on the witness stand.
+
+SUGGESTED ANSWER:
+
+(E) The objection was proper as the right to self-incrimination is a fundamental right that affects liberty and is not waived simply because the accused is on the witness stand.
+
+41.  At the Public Attorney's Office station in Taguig where you are assigned, your work requires you to act as public defender at the local Regional Trial Court and to handle cases involving indigents.
+
+A) In one criminal action for qualified theft where you are the defense attorney, you learned that the woman accused has been in detention for six months, yet she has not been to a courtroom nor seen a judge. What remedy would you undertake to address the situation and what forum would you use to invoke this relief? (2013 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+Section 7, Rule 119 provides, if the public attorney assigned to defend a person charged with a crime knows that the latter is preventively detained, either because he is charged with bailable crime but has no means to post bail, or is charged with a non-bailable crime, or, is serving a term of imprisonment in any penal institution, it shall be his duty to do the following:
+1)   Shall promptly undertake to obtain the presence of the prisoner for trial or cause a notice to be served on the person having custody of the prisoner requiring such person to so advise the prisoner of his right to demand trial.
+2)   Upon receipt of that notice, the custodian of the prisoner shall promptly advise the prisoner of the charge and of his right to demand trial. If at any time thereafter the prisoner informs his custodian that he demands such trial, the latter shall cause notice to that effect to send promptly to the public attorney.
+
+Moreover, Section 1 (e), Rule 116 provides, when the accused is under preventive detention, his case shall be raffled and its records transmitted to the judge to whom the case was raffled within three (3) days from the filing of the information or complaint. The accused shall be arraigned within ten (10) days from the date of the raffle. The pre-trial conference of his case shall be held within ten (10) days after arraignment. 
+
+On the other hand, if the accused is not under preventive detention, the arraignment shall be held within thirty (30) days from the date the court acquires jurisdiction over the person of the accused (Sec. 1 (g), Rule116).
+
+Since the accused has not been brought for arraignment within the limit required in the aforementioned
+Rule, the Information may be dismissed upon motion of the accused invoking his right to speedy trial (Sec.
+9, Rule 119) or to a speedy disposition of cases (Sec. 16, Art. III, 1987 Constitution).
+
+B) In another case, also for qualified theft, the detained young domestic helper has been brought to court five times in the last six months, but the prosecution has yet to commence the presentation of its evidence. You find that the reason for this is the continued absence of the employer- complainant who is working overseas. What remedy is appropriate and before which forum would you invoke this relief? (2013 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+I will file a motion to dismiss the information in the court where the case is pending on the ground of
+denial of the accused’s right to speedy trial (Sec. 9, Rule 119; Tan v. People, G.R. No. 173637, April 21, 2009).
+
+This remedy can be invoked, at any time, before trial and if granted will result to an acquittal. Since the accused has been brought to Court five times and in each instance it was postponed, it is clear that her right to a Speedy Trial has been violated.
+
+42. Should you now proceed posthaste to the presentation of defense evidence or consider some other remedy? Explain the remedial steps you propose to undertake. (2013 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+I will first file a motion for leave to file demurrer to evidence within five (5) days from the time the prosecution rested its case. If the same is granted, then I will file a demurrer to evidence within ten (10) days from notice on the ground of insufficiency of evidence of the prosecution (Sec. 23, Rule 119).
+
+In People v. De Guzman, G.R. No. 186498, March 26, 2010, the Supreme Court held that in prosecution for violation of the dangerous Drugs Act, the existence of the dangerous drug is a condition sine qua non for conviction. The dangerous drug is the very corpus delicti of the crime. The identity of the prohibited drug must be established with moral certainty. Apart from the showing that the elements of possession or sale are present, the fact that the substance illegally possessed and sold in the first place is the same substance offered in court as exhibit must likewise be established with the same degree of certitude as that needed to sustain a guilty verdict. The corpus delicti should be identified with unwavering exactitude.
+
+Similarly, in People v. Sitco, G.R. No. 178202, May 14, 2010, the High Court held that in prosecutions involving narcotics and other illegal substances, the substance itself constitute part of the corpus delicti of the offense and the fact of its existence is vital to sustain a judgment of conviction beyond reasonable doubt. Of chief concern in drug cases then is the requirement that the prosecution prove that what was seized by police officers is the same item presented in court. This identification must be established with moral certainty and is a function of the rule of chain of custody. The chain of custody requirement is essential to ensure that doubts regarding the identity of the evidence are removed through the monitoring and tracking of the movements of the seized drugs from the accused, to the police, to the forensic chemist, and finally to the court.
+
+43.  Enumerate the requisites of a "trial in absentia" and a “promulgation of judgment in absentia"
+(2010 BAR QUESTION) 
+
+SUGGESTED ANSWER:
+
+The requisites of a valid trial in absentia are: (1) accused's arraignment; (2) his due notification of the trial;
+and (3) his unjustifiable failure to appear during trial (Bemardo v. People, G.R. No. 166980, April 4, 2007).
+
+The requisites for a valid promulgation of judgment are:
+1)    A valid notice of promulgation of judgment,
+2)    Said notice was duly furnished to the accused, personally or thru counsel;
+3)    Accused failed to appear on the scheduled date of promulgation of judgment despite due notice;
+4)    Such judgment be recorded in the criminal docket; and
+5)    Copy of said judgment had been duly served upon the accused or his counsel
+
+
+44. Distinguish the effects of the filing of a demurrer to the evidence in a criminal case and its filing in a civil case. (2007 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The following are the distinctions in effects of demurrer to the evidence in criminal cases from that in civil cases:
+
+1)	In criminal cases, demurrer to the evidence requires prior leave of court, otherwise the accused would lose his right to present defense evidence if filed and denied; in civil cases, no leave of court is required for filing such demurrer.
+2)	In criminal cases, when such demurrer is granted, the dismissal of the case is not appealable inasmuch as the dismissal would amount to an acquittal, unless made by a court acting without or in excess of jurisdiction; in civil cases, when such demurrer is granted, the dismissal of the case can be appealed by the plaintiff.
+3)	In criminal cases, the accused loses his right to present his defense-evidence in the trial court when he filed the demurrer without prior leave of court; while in civil cases, the defendant loses his right to present his defense-evidence only if the plaintiff appealed such dismissal and the case is before the appellate court already since the case would be decided only on the basis of plaintiff’s evidence on record.
+
+45.  Pedro, the principal witness in a criminal case, testified and completed his testimony on direct examination in 2015. Due to several postponements by the accused, grounded on his recurring illness, which were all granted by the judge, the cross-examination of Pedro was finally set on October 15, 2016. Before the said date, Pedro died. The accused moved to expunge Pedro's testimony on the ground that it violates his right of confrontation and the right to cross-examine the witness. The prosecution opposed the motion and asked that Pedro's testimony on direct examination be admitted as evidence. Is the motion meritorious? Explain. (2016 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The Motion is meritorious. The cross-examination of a witness is an absolute right, not a mere privilege, of the party against whom he is called. With regard to the accused, it is a right guaranteed by the fundamental law as part of due process. Article III, Sec. 14, par. (2), of the 1987 Constitution specifically mandates that “the accused shall enjoy the right to meet the witnesses face to face,” and Rule 115, Sec. 1, par. (f), of the 2000 Rules of Criminal Procedure enjoins that in all criminal prosecutions the accused shall be entitled to confront and cross-examine the witnesses against him at the trial. Accordingly, the testimony of a witness given on direct examination should be stricken off the record where there was no adequate opportunity for cross-examination (People v. Fernando Monjey Rosario, G.R. No. 146689, September 27, 2002). 
+
+
+In People v. Manchetti (G.R. No. L-48883, August 6, 1980), the Supreme Court also held that if a party is deprived of the opportunity of cross examination without fault on his part, as in the case of the illness and death of a witness after direct examination, he is entitled to have the direct testimony stricken from the records. Since the accused was deprived of an opportunity to cross examine the witness without fault on his part, the motion to expunge is meritorious.
+
+ANOTHER SUGGESTED ANSWER:
+
+The Motion is not meritorious. The right of a party to confront and cross-examine opposing witnesses in a judicial litigation is a personal one which may be waived, expressly or impliedly, by conduct amounting to a renunciation of the right of cross-examination. Where a party has had the opportunity to cross-examine a witness but failed to avail himself of it, he necessarily forfeits the right to cross-examine and the testimony given on direct examination of the witness will be received or allowed to remain in the record. The conduct of a party which may be construed as an implied waiver of the right to cross-examine may take various forms. The common basic principle underlying the application of the rule on implied waiver is that the party was given the opportunity to confront and cross-examine an opposing witness but failed to take advantage of it for reasons attributable to himself alone (People of the Philippines v. Adones Abatayao, G.R. No.
+139456, July 7, 2004). Under the Doctrine of incomplete testimony, the direct testimony of a witness who dies before conclusion of the cross-examination can be stricken only insofar as not covered by the cross- examination (Curtice v. West, 2 NYS 507,50 Hun 47, affirmed 24 N.E. 1099, 121 N.Y. 696), and that a referee has no power to strike the examination of a witness on his failure to appear for cross-examination where a good excuse is given (People v. Hon. Alberto V. Seneris, G.R. No. L-48883 August 6, 1980). At any rate, the accused may be deemed to have waived his right to confront and cross-examine the witness when he asked the postponements of the hearing for several times; therefore, the direct testimony of a witness who died before the conclusion of the cross-examination should not be expunged from the records.
+
+K.Judgment (Rule 120)
+
+L. New trial or reconsideration (Rule 121)
+
+46.  Jaime  was  convicted for  murder  by  the  Regional  Trial  Court  of  Davao  City in  a  decision promulgated on September 30, 2015. On October 5, 2015, Jaime filed a Motion for New Trial on the ground that errors of law and irregularities prejudicial to his rights were committed during his trial. On October 7, 2015, the private prosecutor, with the conformity of the public prosecutor, filed an Opposition to Jaime's motion. On October 9, 2015, the court granted Jaime's motion. On October 12, 2015, the public prosecutor filed a motion for reconsideration. The court issued an Order dated October 16, 2015 denying the public prosecutor's motion for reconsideration. The public prosecutor received his copy of the order of denial on October 20, 2015 while the private prosecutor received his copy on October 26, 2015. (2015 BAR QUESTION)
+
+A) What is the remedy available to the prosecution from the court's order granting Jaime's motion for new trial?
+
+SUGGESTED ANSWER:
+
+The remedy of the prosecution is to file a petition for certiorari under Rule 65 of the Rules of Court, because the denial of a motion for reconsideration is merely an interlocutory order and there is no plain, speedy and adequate remedy under the course of law. Be that as it may, it may be argued that appeal is the appropriate remedy from an order denying a motion for reconsideration of an order granting a motion for new trial because an order denying a motion for reconsideration was already removed in the enumeration of matters that cannot be a subject of an appeal under Section 1, Rule 41 of the Rules of Court. 
+
+
+B) In what court and within what period should a remedy be availed of? SUGGESTED ANSWER:
+Following the principle of judicial hierarchy, the petition for certiorari should be filed before the Court of
+Appeals within sixty (60) days from receipt of the copy of the order of denial of the public prosecutor’s
+motion for reconsideration, or on October 20, 2015.
+
+C) Who should pursue the remedy? SUGGESTED ANSWER:
+The office of the Solicitor General should pursue the remedy. In criminal proceedings on appeal in the
+Court of Appeals or in the Supreme Court, the authority to represent the people is vested solely in the Solicitor General. Under Presidential Decree No. 478, among the specific powers and functions of the OSG is to “represent the government in the Supreme Court and the Court of Appeals in all criminal proceedings.” This provision has been carried over to the Revised Administrative Code particularly in Book IV, Title III, Chapter 12 thereof. Without doubt, the OSG is the appellate counsel of the People of the Philippines in all criminal cases (Cariño v. de Castro, G.R. No. 176084, April 30, 2008).
+
+M.   Appeal (Rules 122, 123, 124 and 125) N.   Search and seizure (Rule 126)
+47.  A PDEA asset/informant tipped the PDEA Director Shabunot that a shabu laboratory was operating in a house at Sta. Cruz, Laguna, rented by two (2) Chinese nationals, Ho Pia and Sio Pao. PDEA Director Shabunot wants to apply for a search warrant, but he is worried that if he applies  for  a search  warrant  in  any  Laguna  court,  their  plan  might  leak  out.    (2012  BAR QUESTION)
+
+A) Where can he file an application for search warrant?
+B) What documents should he prepare in his application for search warrant?
+C) Describe the procedure that should be taken by the judge on the application. D) Suppose the judge issues the search warrant worded in this way:
+
+“PEOPLE OF THE PHILIPPINES Plaintiff
+-versus-
+Ho Pia and Sio Pao, Accused.
+
+Criminal Case No. 007 for Violation of R.A. 9165
+
+
+x- - - - - - - - - - - - - - - - - - - - - -x TO ANY PEACE OFFICER Greetings:
+It appearing to the satisfaction of the undersigned after examining under oath PDEA Director
+Shabunot that there is probable cause to believe that violations of Section 18 and 16 of R.A. 
+
+9165 have been committed and that there are good and sufficient reasons to believe that Ho Pia and Sio Pao have in their possession or control, in a two (2) door apartment with an iron gate located at Jupiter St., Sta. Cruz, Laguna, undetermined amount of "shabu" and drug manufacturing implements and paraphernalia which should be seized and brought to the undersigned,
+
+You are hereby commanded to make an immediate search, at any time in the day or night, of the premises above described and forthwith seize and take possession of the abovementioned personal property, and bring said property to the undersigned to be dealt with as the law directs.
+
+Witness my hand this 1st day of March, 2012.”
+
+Cite/enumerate the defects, if any, of the search warrant.
+
+E) Suppose the search warrant was served on March 15, 2012 and the search yielded the described contraband and a case was filed against the accused in RTC, Sta. Cruz, Laguna and you are the lawyer of Sio Pao and Ho Pia, what will you do?
+F) Suppose an unlicensed armalite was found in plain view by the searchers and the warrant was ordered quashed, should the court order the return of the same to the Chinese nationals?
+
+Explain your answer. SUGGESTED ANSWERS:
+A) PDEA Director Shabunot may file an application for search warrant in any court within the judicial region where the crime was committed. (Rule 126, Sec.2[b]).
+
+ALTERNATIVE ANSWER:
+A) PDEA Director Shabunot may file an application for search warrant before the Executive Judge and Vice Executive Judges of the Regional Trial Courts of Manila or Quezon Cities. (A.M. No. 99-
+1009-SC, January 25, 2000).
+
+B) He should prepare a petition for issuance of a search warrant and attach therein sworn statements and affidavits.
+
+C) The judge must, before issuing the warrant, examine personally in the form of searching questions and answers, in writing and under oath, the complainant and the witnesses he may produce on facts personally known to them and attach to the record their sworn statements, together with the affidavits submitted. (Rule 126, Sec.5, Rules of Court). if the judge is satisfied of the existence of facts upon which the application is based or that there is probable cause to believe that they exist, he shall issue the warrant, which must be substantially in the form prescribed by the Rules. (Rule 126, Sec.6, Rules of Court).
+
+D) (1) The search warrant failed to particularly describe the place to be searched and the things to be seized
+(Rule 126, Sec.4, Rules of Court).
+(2) The search warrant commanded the immediate search, at any time in the day or night. The general rule is that a search warrant must be served in the day time (Rule 126, Sec.8, Revised Rules on Criminal Procedure), or that portion of the twenty-four hours in which a man’s person and countenance are distinguishable (17 C.J. 1134). By way of exception, a search warrant may be made at night when it is positively asserted in the affidavit that the property is on the person or in the place ordered to be searched (Alvares vs. CFI of Tayabas, 64 Phil. 33). There is no showing that the exception applies. 
+
+E) If I were the lawyer of Sio Pao and Ho Pia, I would file a Motion to Quash the search warrant for having been served beyond its period of validity. (Rule 126, Sec. 14, Rules of Court). A search warrant shall be valid only for ten (10) days from its date. Thereafter, it shall be void. (Rule 126, Sec.10, Revised Rules of Court).
+
+F) No, the court should not order the return of the unlicensed armalite because it is contraband or illegal per se. (PDEA vs. Brodett, G.R. No. 196390, September 28, 2011). The possession of an unlicensed armalite found in plain view is mala prohibita. The same should be kept in custodial legis.
+
+48.  A search warrant was issued for the purpose of looking for unlicensed firearms in the house of Assasin, a notorious gun for hire. When the police served the warrant, they also sought the assistance of barangay tanods who were assigned to look at other portions of the premises around the house. In a nipa hut thirty (30) meters away from the house of Ass-asin, a Barangay tanod came upon a kilo of marijuana that was wrapped in newsprint. He took it and this was later used by the authorities to charge Ass-asin with illegal possession of marijuana. Ass-asin objected to the introduction of such evidence claiming that it was illegally seized. Is the objection of Ass-asin valid? (2014 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The objection is valid. The search warrant specifically designates or describes the house as the place to be searched. Incidentally, the marijuana was seized by the Barangay Tanods thirty (30) meters away from the house of the accused. Since the confiscated items were found in a place other than the one described in the search warrant, it can be considered as fruits of an invalid warrantless search, the presentation of which as an evidence is a violation of petitioner’s constitutional guaranty against unreasonable searches and seizure (Ruben Del Castillo v. People of the Philippines, G.R. No. 185128, January 30, 2012). Besides, the search is also illegal because the marijuana confiscated in the nipa hut was wrapped in a newsprint. Therefore, the same cannot be considered validly seized in plain view (Abraham Miclat v. People of the Philippines, G.R. No. 176077, August 31, 2011).
+
+49.  Policemen brought Lorenzo to the Philippine General Hospital (PGH) and requested one of its surgeons to immediately perform surgery on him to retrieve a packet of 10 grams of shabu which they alleged was swallowed by Lorenzo. Suppose the PGH agreed to, and did perform the surgery, is the package of shabu admissible in evidence? Explain. (2010 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+Yes, it is admissible in evidence because the constitutional right against self- incrimination is addressed only to extracting admission of guilt from the lips of the suspect where otherwise no incriminating evidence exists. In the past, the Supreme Court has already declared many invasive and involuntary procedures (i.e. examination of women's genitalia, expulsion of morphine from one's mouth, DNA testing) as constitutionally sound (See Agustin v. Court of Appeals, G.R. No. 162571, June 15, 2005).
+
+50.  The search warrant authorized the seizure of “undetermined quantity of shabu.” During the service of the search warrant, the raiding team also recovered a kilo of dried marijuana leaves wrapped in newsprint. The accused moved to suppress the marijuana leaves as evidence for the violation of Section 11 of the Comprehensive Dangerous Drugs Act of 2002 since they were not covered by the search warrant. The State justified the seizure of the marijuana leaves under the “plain view” doctrine. There was no indication of whether the marijuana leaves were discovered and seized before or after the seizure of the shabu. If you are the judge, how would you rule on the motion to suppress? (2008 BAR QUESTION) 
+
+
+SUGGESTED ANSWER:
+
+The motion to suppress filed by the accused should be granted. The search warrant violates the constitutional and statutory requirement that it should particularly describe the person or things to be seized (Sec. 2, Art. Ill, Constitution; Sec. 2, Rule 126, Revised Rules of Criminal Procedure). The “plain view” doctrine cannot be invoked because the marijuana leaves were wrapped in newsprint. Besides the marijuana leaves are not the subject of the search warrant. There was no evidence as to whether the marijuana leaves were discovered and seized before or after the seizure of the shabu. If they were discovered after the seizure of the shabu, then they could not have been seized in plain view (Cf. People vs. Musa, GR No. 96177, January
+27, 1997). The confiscation of the marijuana leaves must be upheld, (People v. Salunguit Roberto y Ko, 356
+SCRA 683 [200l]), hence rendering the same inadmissible in evidence against the accused.
+
+51.   In the course of serving a search warrant, the police finds an unlicensed firearm. Can the police take the firearm even if it is not covered by the search warrant? If the warrant is subsequently quashed, is the police required to return the firearm? Explain briefly. (2007 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+Yes, the police may take with him the “unlicensed” firearm although not covered by the search warrant. Possession of an “unlicensed firearm” is a criminal offense and the police officer may seize an article which is the “subject of an offense.” This is especially so considering that the “unlicensed firearm” appears to be in “plain view” of the police officer when he conducted the search.
+
+Even if the warrant was subsequently quashed, the police is not mandated to return the “unlicensed firearm.” The quashal of the search warrant did not affect the validity of the seizure of the “unlicensed firearm.” Moreover, returning the firearm to a person who is not otherwise allowed by law to possess the same would be tantamount to abetting a violation of the law.
+
+O. Provisional remedies in criminal cases (Rule 127)
+
+P. Revised Guidelines on Continuous Trial (A.M. No. 15-06-
+10-SC)
+Q. The Rule on Cybercrime Warrants (A.M. No. 17-11-03-SC) R.R.A. 3019; Pre-Suspension Hearing (2012 BAR
+QUESTION)
+
+52.  X, an undersecretary of DENR, was charged before the Sandiganbayan for malversation of public funds allegedly committed when he was still the Mayor of a town in Rizal. After arraignment, the prosecution moved that X be preventively suspended. X opposed the motion arguing that he was now occupying a position different from that which the Information charged him and therefore, there is no more possibility that he can intimidate witnesses and hamper the prosecution. Decide. Suppose X files a Motion to Quash challenging the validity of the Information and the Sandiganbayan denies the same, will there still be a need to conduct a pre-suspension hearing? Explain. (2012 BAR QUESTION)
+
+SUGGESTED ANSWER: 
+
+
+There is no necessity for the court to conduct pre-suspension hearing. Under Section 13 of RA No. 3019, an incumbent public officer against whom any criminal prosecution under a valid information for graft- related crime such as malversation is pending in court, shall be suspended from office. The word “office”, from which the public officer charged shall be preventively suspended, could apply to any office, which he might currently be holding and not necessarily the particular office under which he was charged. The preventive suspension of the following public officers was sustained: (1) a mayor, who was charged with acts committed as a government auditor of the Commission on Audit (Bayot vs. Sandiganbayan, G.R. No. L-61776 to L-61861, March 23, 1984); (2) a public officer, who was already occupying the office of governor and not the position of municipal mayor that he held previously when charged with having violated Anti- Graft Law (Deloso vs. Sandiganbayan, G.R. No. 86899, May 15, 1989); (3) a Vice Governor, whose suspension is predicated on his acts supposedly committed while still a member of the Sangguniang Bayan (Libanan vs. Sandiganbayan, G.R. No. 112386, June 14, 1994). Thus, the DENR undersecretary can be preventively suspended even though he was a mayor, when he allegedly committed malversation.
+
+Settled is the rule that where the accused files a motion to quash the information or challenges the validity thereof, a show cause order of the trial court would no longer be necessary. What is indispensable is that the trial court duly hear the parties at a hearing held for determining the validity of the information, and thereafter hand down its ruling, issuing the corresponding order of suspension should it uphold the validity of the information (Luciano vs. Mariano, G.R. No. L-32950, July 30, 1971). Since a pre-suspension hearing is basically a due process requirement, when an accused public official is given an adequate opportunity to be heard on his possible defenses against the mandatory suspension under RA No. 3019, then an accused would have no reason to complain that no actual hearing was conducted (Miguel vs. The Honorable Sandiganbayan, G.R. No. 172035, July 4, 2012). In the facts given, the DENR Undersecretary was already given opportunity to question the validity of the Information for malversation by filing a motion to quash, and yet, the Sandiganbayan sustained its validity. There is no necessity for the court to conduct pre- suspension hearing to determine for the second time the validity of the information for purpose of preventively suspending the accused.
+
+ALTERNATIVE ANSWER:
+
+The argument that X should not be suspended as he now holds an office different from that charged in the information is unavailing. Under Section 13(e) of RA 3019, a public officer may be charged before the Sandiganbayan for “causing undue injury to any party, including the Government, or giving any private party any unwarranted benefits, advantage or preference in the discharge of his official, administrative or judicial functions through manifest partiality, evident bad faith or gross inexcusable negligence.” The Supreme Court has held that Section 13 of RA 3019 is so clear and explicit that there is hardly room for any extended court rationalization of the law. Preventive suspension is mandatory regardless of the respondent’s change in position. 

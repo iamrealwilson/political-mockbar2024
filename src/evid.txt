@@ -1,0 +1,592 @@
+VIII. EVIDENCE
+
+A.General concepts
+
+1.  Proof vs. evidence
+
+2.  Burden of proof vs. burden of evidence
+
+3.  Equipoise rule
+
+B.Admissibility
+
+1.  Requisites (Rule 128)
+
+2.  Exclusionary rules
+
+1.	Arrested in a buy-bust operation, Edmond was brought to the police station where he was informed of his constitutional rights. During the investigation, Edmond (refused to give any statement. However, the arresting officer asked Edmond to acknowledge in writing that six (6) sachets of “shabu” were confiscated from him. Edmond consented and also signed a receipt for the amount of P3,000.00, allegedly representing the “purchase price of the shabu.” At the trial, the arresting officer testified and identified the documents executed and signed by Edmond. Edmond’s lawyer did not object to the testimony. After the presentation of the testimonial evidence, the prosecutor made a formal offer of evidence which included the documents signed by Edmond.
+
+Edmond’s lawyer objected to the admissibility of the documents for being the “fruit of the poisoned tree.” Resolve the objection with reasons. (2009 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The objection to the admissibility of the documents which the arresting officer asked Edmond to sign without the benefit of counsel, is well-taken. Said documents having been signed by the accused while under custodial investigation, imply an “admission” without the benefit of counsel, that the shabu came from him and that the P3,000.00 was received by him pursuant to the illegal selling of the drugs. Thus, it was obtained by the arresting officer in clear violation of Sec. 12(3), Art. Ill of the 1987 Constitution, particularly the right to be assisted by counsel during custodial investigation.
+
+Moreover, the objection to the admissibility of the evidence was timely made, i.e., when the same is formally offered.
+
+2.   Dominique was accused of committing a violation of the Human Security Act. He was detained incommunicado, deprived of sleep, and subjected to water torture. He later allegedly confessed his guilt via an affidavit.
+
+After trial, he was acquitted on the ground that his confession was obtained through torture, hence, inadmissible as evidence. 
+
+In a subsequent criminal case for torture against those who deprived him of sleep and subjected him to water torture, Dominique was asked to testify and to, among other things, identify his above-said affidavit of confession. As he was about to identify the affidavit, the defense counsel objected on the ground that the affidavit is a fruit of a poisonous tree. Can the objection be sustained? Explain. (2010 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+No, the objection may not be sustained on the ground stated, because the affiant was only to identify the affidavit which is not yet being offered in evidence.
+
+The doctrine of the poisonous tree can only be invoked by Domingo as his defense in the crime of Violation of Human Security Act filed against him but not by the accused torture case filed by him.
+
+In the instant case, the presentation of the affidavit cannot be objected to by the defense counsel on the
+ground that is a fruit of the poisonous tree because the same is used in Domingo’s favor.
+
+3.   In a prosecution for rape, the defense relied on Deoxyribonucleic Acid (DNA) evidence showing that the semen found in the private part of the victim was not identical with that of the accused’s. As private prosecutor, how will you dispute the veracity and accuracy of the results of the DNA evidence? (2010 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+As a private prosecutor, I shall try to discredit the results of the DNA test by questioning and possibly impugning the integrity of the DNA profile by showing a flaw/error in obtaining the biological sample obtained; the testing methodology employed; the scientific standard observed; the forensic DNA laboratory which conducted the test; and the qualification, training and experience of the forensic laboratory personnel who conducted the DNA testing.
+
+3.  Judicial notice and judicial admissions (Rule 129)
+
+C.Object (Real) Evidence (Rule 130, A)
+
+4.   TRUE or FALSE. Vallejo standard refers to jurisprudential norms considered by the court in assessing the probative value of DNA evidence. (2009 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+TRUE. In People v. Vallejo, 382 SCRA192 (2002), it was held that in assessing the probative value of DNA evidence, courts should consider, among others things, the following data: how the samples were collected, how they were handled, the possibility of contamination of the samples, the procedure followed in analyzing the samples, whether the proper standards and procedures were followed in conducting the tests, and the qualification of the analyst who conducted the tests.
+
+D.   Documentary Evidence (Rule 130, B)
+
+5.   A foreign dog trained to sniff dangerous drugs from packages, was hired by FDP Corporation, a door to door forwarder company, to sniff packages in their depot at the international airport. In one of the routine inspections of packages waiting to be sent to the United States (US), the dog sat beside one of the packages, a signal that the package contained dangerous drugs. Thereafter, 
+
+the guards opened the package and found two (2) kilograms of cocaine. The owner of the package was arrested and charges were filed against him. During the trial, the prosecution, through the trainer who was present during the incident and an expert in this kind of field, testified that the dog was highly trained to sniff packages to determine if the contents were dangerous drugs and the sniffing technique of their highly trained dogs was accepted worldwide and had been successful in dangerous drugs operations. The prosecution moved to admit this evidence to justify the opening of the package. The accused objected on the grounds that : (i) the guards had no personal knowledge of the contents of the package before it was opened; (ii) the testimony of the trainer of the dog is hearsay; and (iii) the accused could not cross-examine the dog. Decide. (2014
+BAR QUESTION) SUGGESTED ANSWER:
+The objections of the accused should be overruled. An evidence is admissible when it is relevant to the issue and is not excluded by the law or the rules (Section 3, Rule 128). Under Section 36, Rules 130 of the Rules of Court, a witness can testify only to those which he knows of his personal knowledge and derived from his own perception. The contention that the guards had no personal knowledge of the contents of the package before it was opened is without merit. The guards can testify as to the facts surround the opening of the package since they have personal knowledge of the circumstances thereof, being physically present at the time of its discovery.
+
+On the other hand, the testimony of the trainer of the dog is not hearsay based on the following grounds:
+a)   He has personal knowledge of the facts in issue, having witnessed the same;
+b)   Hearsay merely contemplates an out-of-court declaration of a person which is being offered to prove the truthfulness and veracity of the facts asserted therein;
+c)   He is an expert witness, hence, his testimony may constitute an exception to the hearsay rule;
+d)   The accused has the opportunity to cross-examine him; and
+e)   Testimony of a witness as to statements made by nonhuman declarants does not violate the rule
+against hearsay. The law permits the so-called “non-human evidence” on the ground that machines and animals, unlike humans, lack a conscious motivation to tell falsehoods, and because the workings of machines can be explained by human witnesses who are then subject to cross- examination by opposing counsel. (City of Webster Groves v. Quick. 323 S.W. 2d 386 [Mo. 1959]; Buck v. State, 138 P. 2d 115 [Okla. 1943]; Herrera, 1999).
+
+Conversely, the accused may not argue that he cannot cross-examine the dog as the Constitutional right to confrontation refers only to witnesses. As alluded, the human witnesses who have explained the workings of the non-human evidence is the one that should be cross-examined. Hence, the contention of the accused that the he could not cross-examine the dog is misplaced. Ergo, there is no doubt that the evidence of the prosecution is admissible for being relevant and competent.
+
+1.  Definition
+
+2.  Best Evidence rule
+
+6.   QUESTION: Police officers arrested Mr. Druggie in a buy-bust operation and confiscated from him 10 sachets of shabu and several marked genuine peso bills worth ₱5,000.00 used as the buy- bust money during the buy-bust operation.
+
+At the trial of Mr. Druggie for violation of R.A. No. 9165 (Comprehensive Dangerous Drug Act of
+2002), the Prosecution offered in evidence, among others, photocopies of the confiscated marked genuine peso bills. The photocopies were offered to prove that Mr. Druggie had engaged at the time of his arrest in the illegal selling of dangerous drugs. 
+
+
+Invoking the Best Evidence Rule, Atty. Maya Bang, the defense counsel, objected to the admissibility of the photocopies of the confiscated marked genuine peso bills.
+
+Should the trial judge sustain the objection of the defense counsel? Briefly explain your answer. (2017 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+No, the trial judge should not sustain the objection that invokes the best evidence rule.
+
+The Supreme Court has held that the best evidence rule applies only to documentary evidence, not to object or testimonial evidence.
+
+Here the marked money is object not documentary evidence since it is being offered to prove not its contents but its existence and use in the buy-bust operation. [People v. Tandoy, 192 SCRA 28 (1990)]
+
+3.  Secondary evidence
+
+4.  Parol Evidence rule
+
+7.   Parole evidence is an: (2014 BAR QUESTION) A)  agreement not included in the document
+B)  oral agreement not included in the document
+C)  agreement included in the document
+D) oral agreement included in the document
+
+SUGGESTED ANSWER:
+
+(B) oral agreement not included in the document. Under Section 9 of Rule 130 of the Rules of Court, when the terms of an agreement are reduced in writing, it is deemed to contain all the terms agreed upon and no evidence of such terms can be admitted other than the contents of the said written agreement (Financial Building Corporation v. Rudlin International Corporation, G.R. No. 164186, October 4, 2010)
+
+5.  Interpretation of documents
+
+E.Testimonial Evidence (Rule 130)
+
+1.  Qualification of witnesses
+
+8.   For over a year, Nenita had been estranged from her husband Walter because of the latter’s suspicion that she was having an affair with Vladimir, a barangay kagawad who lived in nearby Mandaluyong. Nenita lived in the meantime with her sister in Makati. One day, the house of Nenita’s sister inexplicably burned almost to the ground. Nenita and her sister were caught inside the house but Nenita survived as she fled in time, while her sister tried to save belongings and was caught inside when the house collapsed.
+
+As she was running away from the burning house, Nenita was surprised to see her husband also running away from the scene. Dr. Carlos, Walter’s psychiatrist who lived near the burned house and whom Walter medically consulted after the fire, also saw Walter in the vicinity some minutes before  the  fire.  Coincidentally,  Fr.  Platino,  the  parish  priest  who  regularly  hears  Walter’s 
+
+confession and who heard it after the fire, also encountered him not too far away from the burned house.
+
+Walter was charged with arson and at his trial, the prosecution moved to introduce the testimonies of Nenita, the doctor and the priest-confessor, who all saw Walter at the vicinity of the fire at about the time of the fire.
+
+A)  May the testimony of Nenita be allowed over the objection of Walter? (2013 BAR QUESTION) SUGGESTED ANSWER:
+NO. Nenita may not be allowed to testify against Walter. Under the Marital Disqualification Rule, during
+their marriage, neither the husband nor the wife may testify for or against the other without the consent of the affected spouse, except in a civil case by one against the other, or in a criminal case for a crime committed by one against the other or the latter's direct descendants or ascendants (Sec. 22, Rule 130). The foregoing exceptions cannot apply since it only extends to a criminal case of one spouse against the other or the latter’s direct ascendants or descendants. Clearly, Nenita is not the offended party and her sister is not her direct ascendant or descendant for her to fall within the exception.
+
+B) May the testimony of Dr. Carlos, Walter’s psychiatrist, be allowed over Walter’s objection? (2013
+BAR QUESTION) SUGGESTED ANSWER:
+YES. The testimony of Walter’s psychiatrist may be allowed. The privileged communication contemplated under Sec. 24 (c) Rule 130 of the Rules on Evidence involves only persons authorized to practice medicine, surgery or obstetrics. It does not include a Psychiatrist. Moreover, the privileged communication applies only in civil cases and not in a criminal case for arson. Besides, the subject of the testimony of Dr. Carlos was not in connection with the advice or treatment given by him to Walter, or any information he acquired in attending to Walter in a professional capacity. The testimony of Dr. Carlos is limited only to what he perceived at the vicinity of the fire and at about the time of the fire.
+
+C) May the testimony of Fr. Platino, the priest-confessor, be allowed over Walter’s objection? (2013
+BAR  QUESTION) SUGGESTED ANSWER:
+YES. The Priest can testify over the objection of Walter. The disqualification requires that the same were made pursuant to a religious duty enjoined in the course of discipline of the sect or denomination to which they belong and must be confidential and penitential in character, e.g., under the seal of confession (Sec.
+24 (d) Rule 130).
+
+Here, the testimony of Fr. Platino was not previously subject of a confession of Walter or an advice given by him to Walter in his professional character. The testimony was merely limited to what Fr. Platino perceived “at the vicinity of the fire and at about the time of the fire.” Hence, Fr. Platino may be allowed to testify.
+
+9.   On March 12, 2008, Mabini was charged with Murder for fatally stabbing Emilio. To prove the qualifying circumstance of evident premeditation, the prosecution introduced on December 11,
+2009 a text message, which Mabini's estranged wife Gregoria had sent to Emilio on the eve of his death, reading: "Honey, papatayin u ni Mabini. Mtgaln nyang plano i2. Mg ingat u bka ma tsugi k." (2010 BAR QUESTION) 
+
+A) A subpoena ad testificandum was served on Gregoria. For her to be presented for the purpose of identifying her cellphone and the text message. Mabini objected to her Presentation on the ground of marital privilege. Resolve.
+
+SUGGESTED ANSWER:
+
+The objection should be sustained on the ground of the marital disqualification rule (Rule 130, Sec. 22); not on the ground of the "marital privilege" communication rule. (Rule 130, Sec. 24). The marriage between Mabini and Gregoria is still subsisting and the situation at bar does not come under the exceptions to the disqualification by reason of marriage.
+
+B) Suppose Mabini's objection in question A was sustained. The prosecution thereupon announced that it would be presenting Emilio's wife Graciana to' identify Emilio's cellphone bearing Gregoria's text message. Mabini objected again. Rule on the objection.
+
+SUGGESTED ANSWER:
+
+The objection should  be overruled. The testimony of Graciana is not  covered  by the said  marital disqualification rule because she is not the wife of Mabini. Besides, Graciana will identify only the cellphone as that of her husband Emilio, not the messages therein which to her are hearsay.
+
+C) If Mabini's objection in question B was 'overruled, can he object to the presentation of the text message on the ground that it is hearsay?
+
+SUGGESTED ANSWER:
+
+No, Gregoria's text message in Emilio's cellphone is not covered by the hearsay rule because it is regarded in the rules of evidence as independently relevant statement: the text message is not to prove the truth of the fact alleged therein but only as to the circumstance of whether or not premeditation exists.
+
+D) Suppose that shortly before he expired, Emilio was able to send a text message to his wife Graciana reading "Nasaksak ako. Dna me makahinga. Si Mabini ang may gawa ni2." Is this text message admissible as a dying declaration? Explain.
+
+SUGGESTED ANSWER:
+
+Yes, the text message is admissible as a dying declaration since the same came from the victim who shortly expired and it is in respect of the cause and circumstance of his death. The decisive factor that the message was made and sent under consciousness of an impending death, is evidently attendant from the victim's Statement: “D na me makahinga" and the fact that he died shortly after he sent the text message. However, cellphone messages are regarded as electronic evidence, and in a recent case (Ang v. Court of Appeals et al., GR No. 182835, April 20, 2010), the Supreme Court ruled that the Rules on Electronic Evidence applies only to civil actions, quasi-judicial proceedings and administrative proceeding, not to criminal actions.
+
+ALTERNATIVE ANSWER:
+
+No, the text message is not admissible as a dying declaration because it lacks indication that the victim was under consciousness of an impending death. The statement "D na me makahinga" is still equivocal in the text message sent that does not imply consciousness of forth-coming death.
+
+10.  TRUE or FALSE. The surviving parties rule bars Maria from testifying for the claimant as to what the deceased Jose had said to her, in a claim filed by Pedro against the estate of Jose. (2007 BAR QUESTION) 
+
+
+SUGGESTED ANSWER:
+
+False. The said rule bars only parties-plaintiff and their assignors, or persons prosecuting a claim against the estate of a deceased; it does not cover Maria who is a mere witness. Furthermore, the disqualification is in respect of any matter of fact occurring before the death of said deceased (Sec. 23, Rule 130, Rules of Court, Razon v. Intermediate Appellate Court, 207 SCRA 234 [1992]). It is Pedro who filed the claim against the estate of Jose.
+
+11. QUESTION: AA, a twelve-year-old girl, while walking alone met BB, a teenage boy who befriended her. Later, BB brought AA to a nearby shanty where he raped her. The Information for rape filed against BB states:
+
+"On or about October 30, 2015, in the City of S.P. and within the jurisdiction of this Honorable Court, the accused, a minor, fifteen (15) years old with lewd design and by means of force, violence and intimidation, did then and there, willfully, unlawfully and feloniously had sexual intercourse with AA, a minor, twelve (12) years old against the latter's will and consent."
+
+At the trial, the prosecutor called to the witness stand AA as his first witness and manifested that he be allowed to ask leading questions in conducting his direct examination pursuant to the Rule on the Examination of a Child Witness. BB's counsel objected on the ground that the prosecutor has not conducted a competency examination on the witness, a requirement before the rule cited can be applied in the case. (2015 BAR QUESTIONS)
+
+A) Is BB's counsel correct? SUGGESTED ANSWER:
+No. BB’s counsel is not correct. Every child is presumed qualified to be a witness (Sec. 6, Rule on
+Examination of Child Witness [RECW]). To rebut the presumption of competence enjoyed by a child, the burden of proof lies on the party challenging his competence (Sec. 6 of A.M. No. 005-07-SC or the Rules on Examination of Child Witness). Here, AA, a 12-year old child witness who is presumed to be competent, may be asked leading questions by the prosecutor in conducting his direct examination pursuant to the RECW and the Revised Rules on Criminal Procedure (People v. Santos, G.R. No. 171452, October 17, 2008).
+
+B) In order to obviate the counsel's argument on the competency of AA as prosecution witness, the judge motu proprio conducted his voir dire examination on AA. Was the action taken by the judge proper?
+
+SUGGESTED ANSWER:
+
+Yes,  the judge may  motu  proprio  conduct his  voir  dire  examination  on AA.  Under  the  Rules on Examination of Child Witness, the court shall conduct a competency examination of a child, motu proprio or on motion of a party, when it finds that substantial doubt exists regarding the ability of the child to perceive, remember, communicate, distinguish truth from falsehood, or appreciate the duty to tell the truth in court (Sec. 6 of A.M. No. 005-07-SC or the Rules on Examination of Child Witness).
+
+C) After the prosecution had rested its case, BB' s counsel filed with leave a demurrer to evidence, seeking the dismissal of the case on the ground that the prosecutor failed to present any evidence on BB' s minority as alleged in the Information. Should the court grant the demurrer?
+
+SUGGESTED ANSWER: 
+
+No, the court should not grant the demurrer. While it was alleged in the information that BB was a minor at the time of the commission of the offense, the failure of the prosecutor to present evidence to prove his minority is not a basis for the granting of the demurrer, because minority of the accused is not an element of the crime of rape. Be that as it may, the Court should not consider minority in rendering the decision. After all, the failure of the prosecutor to prove the minority of AA may only affect the imposable penalty but may not absolve him from criminal liability.
+
+12. John filed a petition for declaration of nullity of his marriage to Anne on the ground of psychological incapacity under Article 36 of the Family Code. He obtained a copy of the confidential psychiatric evaluation report on his wife from the secretary of the psychiatrist. Can he testify on the said report without offending the rule on privileged communication? Explain. (2016
+BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+Yes. John can testify. Under the rule on privileged communication, the husband or the wife, during or after the marriage, cannot be examined without the consent of the other as to any communication received in confidence by one from the other during the marriage except in a civil case by one against the other, or in a criminal case for a crime committed by one against the other or the latter’s direct descendants or ascendants (Rule 130, Sec. 24 (a), Rules of Court). In this case, Anne cannot prevent john from testifying against her since the petition for declaration of nullity is a civil case filed by one spouse against the other; hence, the rule on privileged communication between the spouses does not apply, John could testify on the confidential psychiatric evaluation report of his wife that he obtained from the secretary of the psychiatrist, without offending the rule on privileged communication.
+
+ALTERNATIVE ANSWER:
+
+No. John cannot testify. A person authorized to practice medicine, surgery or obstetrics cannot in a civil case, without the consent of the patient, be examined as to any advice or treatment given by him or any information which he may have acquired in attending such patient in a professional capacity, which information was necessary to enable him to act in that capacity, and which would blacken the reputation of the patient (Section 24 (c), Rule 130, Rules on Evidence). Relative thereto, the Rule pertains only to the Physician authorized to practice medicine, surgery or obstetrics in a civil case who will testify without the consent of the patient. The husband can testify, therefore, on the copy of the psychiatric evaluation report on his wife that he obtained from the secretary of the psychiatrist. After all, the husband can testify because the marital disqualification rule does not apply in a civil case filed by one against the other (Section 22, Rule
+130, Rules on Evidence).
+
+13.   Immediately  before  he  died of  gunshot  wounds  to  his  chest,  Venancio told  the  attending physician, in a very feeble voice, that it was Arnulfo, his co-worker, who had shot him. Venancio added that it was also Arnulfo who had shot Vicente, the man whose cadaver was lying on the bed beside him.
+
+14.  In the prosecution of Arnulfo for the criminal killing of Venancio and Vicente, are all the statements of Venancio admissible as dying declarations? Explain your answer.   (2017 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+No, not all the statements of Venancio are admissible as dying declarations.
+
+Under the Rules on Evidence, a dying declaration is admissible as an exception to the hearsay rule provided
+that such declaration relates to the cause of the declarant’s death. 
+
+
+Venancio’s statement that it was Arnulfo who shot him is admissible as a dying declaration. The same related to Venancio’s own demise. It may be inferred that Venancio had consciousness of his impending death since he suffered gunshot wounds to his chest which would necessarily be mortal wounds.
+
+However, Venancio’s statement that it was Arnulfo who shot Vicente is not admissible as a dying declaration since it did not relate to the cause of the declarant’s death but to the death of another person.
+
+2.  Testimonial privilege
+
+15.  X was driving the dump truck of Y along Cattleya Street in Sta. Maria, Bulacan. Due to his negligence, X hit and injured V who was crossing the street. Lawyer L, who witnessed the incident, offered his legal services to V.
+
+V, who suffered physical injuries including a fractured wrist bone, underwent surgery to screw a metal plate to his wrist bone.
+
+On complaint of V, a criminal case for Reckless Imprudence Resulting in Serious Physical Injuries was filed against X before the Municipal Trial Court (MTC) of Sta. Maria. Atty. L, the private prosecutor, did not reserve the filing of a separate civil action.
+
+V subsequently filed a complaint for Damages against X and Y before the Regional Trial Court of Pangasinan in Urdaneta where he resides. In his "Certification Against Forum Shopping," V made no mention of the pendency of the criminal case in Sta. Maria.
+
+Atty. L offered in the criminal case his affidavit respecting what he witnessed during the incident. X’s lawyer wanted to cross-examine Atty. L who, however, objected on the ground of lawyer-client privilege. Rule on the objection. (2010 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The objection should be overruled. Lawyer-client privilege is not involved here. The subject on which the counsel would be examined has been made public in the affidavit he offered and thus, no longer privileged, aside from the fact that it is in respect of what the counsel witnessed during the incident and not to the communication made by the client to him or the advice he gave thereon in his professional capacity.
+
+16.  On August 15, 2008, Edgardo committed estafa against Petronilo in the amount of P3 Million.
+Petronilo brought his complaint to the National Bureau of Investigation, which found that
+Edgardo had visited his lawyer twice, the first time on August 14, 2008 and the second on August
+16, 2008; and that both visits concerned the swindling of Petronilo. During the trial of Edgardo, the RTC issued a subpoena ad testificandum to Edgardo's lawyer for him to testify on the conversations during their first and second meetings. May the subpoena be quashed on the ground of privileged communication? Explain fully. (2008 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+Yes, the mantle of privileged communication based on lawyer-client relationship protects the communication between a lawyer and his client against any adverse party as in this case. The subpoena requiring the lawyer to testify can be quashed on the ground of privileged communication (See Regala v. Sandiganbayan, GR No. 105938, 20 September 1996). Sec. 24 (b) Rule 130 provides that an attorney cannot, without the consent of his client be examined in any communication made to him by his client to him, or his advice given thereon, including his secretary, stenographer, clerk concerning any fact the knowledge of which has been acquired in such capacity. However, where the subject matter of the communication 
+
+involves the commission of the crime, in which the lawyer himself is a participant or conspirator, then the same is not covered by the privilege. Moreover, if the substance of the communication can be established by independent evidence, the lawyer maybe compelled to testify.
+
+17.   A tugboat owned by Speedy Port Service, Inc. (SPS) sank in Manila Bay while helping tow another vessel, drowning five (5) of the crew in the resulting shipwreck. At the maritime board inquiry, the four (4) survivors testified. SPS engaged Atty. Ely to defend it against potential claims and to sue the company owning the other vessel for damages to the tug. Ely obtained signed statements from the survivors. He also interviewed other persons, in some instance making memoranda. The heirs of the five (5) victims filed an action for damages against SPS.
+
+Plaintiff’s counsel sent written interrogatories to Ely, asking whether statements of witnesses were obtained; if written, copies were to be furnished; if oral, the exact provisions were to be set forth in detail. Ely refused to comply, arguing that the documents and information asked are privileged communication. Is the contention tenable? Explain. (2008 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+Yes, the contention of counsel for SPS is tenable considering that he was acting in his professional capacity in bringing about the statement he obtained from witnesses and the memoranda he made. The notes, memoranda, and writings made by counsel in pursuance of his professional duty, form part of his private and confidential files in the cases handled by him; hence privileged (Air Philippines Corp. v. Pennswell, Inc.,
+540 SCRA 215 [2007]).
+
+ALTERNATIVE ANSWER:
+
+The oral statements secured by the lawyer from the witnesses may not be the subject of discovery procedure not because they are privileged communication but because of the danger of untruthfulness and inaccuracy. The account of the lawyer is likewise hearsay evidence. Besides, plaintiff’s counsel may obtain transcripts of the testimonies of the four survivors before the maritime board inquiry.
+
+On the other hand, under Rule 23, the lawyer may be examined regarding the existence of the written statements of the survivors, including the description, nature, and custody thereof, not being privileged communication. (Hickman v. Taylor, 329 US 495[1947]).
+
+3.  Admissions and confessions
+
+18.  QUESTION: A vicarious admission is considered an exception to the hearsay rule. It, however, does not cover: (2014 BAR QUESTION)
+A)  admission by a conspirator
+B)  admission by a privy
+C)  judicial admission
+D) adoptive admission
+
+SUGGESTED ANSWER:
+
+(C) Judicial admission. Judicial admission is not covered by the Rule on vicarious admissions considered as exceptions to the Res Inter Alios Acta Rule. Under the Res Inter Alios Acta Rule, the rights of a party cannot be prejudiced by the act, declaration or omission of another (Section 38, Rule 130, Rules of Court). It is not only rightly inconvenient, but also manifestly unjust, that a man should be bound by the acts of mere unauthorized strangers, and if a party ought not to be bound by the acts of strangers, neither ought their acts or conduct be used as evidence against him (5 Moran, p. 237 1980 ed.). The exceptions are admission by a co-partner or agent (Section 29); admission by conspirator (Section 30); admission by 
+
+privies; (Section 31); which are collectively classified by Senator Salonga as “vicarious admissions”. (Vide
+Gilbert, Sec. 332; Remedial Law V, Herrera, page 398).
+
+19.  QUESTION: Under the doctrine of adoptive admission, a third party's statement becomes the admission of the party embracing or espousing it. (2009 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+TRUE. The effect or consequence of the admission will bind also the party who adopted or espoused the same, as applied in Estrada v. Desierto, 356 SCRA 108 [2001]). An adoptive admission is a party's reaction to a statement or action by another person when it is reasonable to treat the party's reaction as an admission of something stated or implied by the other person.
+
+4.  Previous conduct as evidence
+
+5.  Testimonial knowledge
+
+6.  Hearsay and exceptions to the hearsay rule
+
+20.  Counsel A objected to a question posed by opposing Counsel B on the grounds that it was hearsay and it assumed a fact not yet established. The judge banged his gavel and ruled by saying "Objection Sustained". Can Counsel B ask for a reconsideration of the ruling? Why? (2012 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+Yes, Counsel B may ask the Judge to specify the grounds relied upon for sustaining the objection and thereafter move for its reconsideration thereof. (Rule 132, Sec.38, Rules of Court).
+
+21.   While passing by a dark uninhabited part of their barangay, PO2 Asintado observed shadows and heard screams from a distance. PO2 Asintado hid himself behind the bushes and saw a man beating a woman whom he recognized as his neighbour, Kulasa. When Kulasa was already in agony the man stabbed her and she fell on the ground. The man hurriedly left thereafter. PO2
+Asintado immediately went to Kulasa’s rescue. Kulasa who was then in a state of hysteria, kept
+mentioning to PO2 Asintado “Si Rene, gusto akong patayin! Sinaksak niya ako!” When PO2
+Asintado was about to carry her, Kulasa refused and said “Kaya ko. Mababaw lang to. Habulin mo si Rene.” The following day, Rene learned of Kulasa’s death and, bothered by his conscience, surrendered to the authorities with his counsel. As his surrender was broadcasted all over media, Rene opted to release his statement to the press which goes:
+
+“I believe that I am entitled to the presumption of innocence until my guilt is proven beyond reasonable doubt. Although I admit that I performed acts that may take one’s life away, I hope and pray that justice will be served in the right way. God bless us all.
+
+(Sgd.) Rene”
+
+The trial court convicted Rene of homicide on the basis of PO2 Asintado’s testimony, Kulasa’s statements, and Rene’s statement to the press. On appeal, Rene raises the following errors:
+
+A) The trial court erred in giving weight to PO2 Asintado’s testimony, as the latter did not have
+personal knowledge of the facts in issue, and violated Rene’s right to due process when it 
+
+considered Kulasa’s statements despite lack of opportunity for her cross-examination. (2014 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The trial court did not err in giving weight to PO2 Asintado’s testimony.
+
+While a witness can only testify as to those facts which he has personal knowledge of, the Rules provide that a statement made under the influence of a startling event witnessed by the person who made the declaration before he had time to think and make up a story, or to concoct or contrive a falsehood, or to fabricate an account, and without any undue influence in obtaining it, aside from referring to the event in question or its immediate attending circumstances, is an exception being part of res gestae. In the case, the statements made by PO2 Asintado constitutes part of res gestae since the same were made without any opportunity to fabricate and while a startling occurrence was actually taking place.
+
+In addition, the statement of PO2 Asintado may fall within the purview of the doctrine of independent relevant statement, where only the fact that such statements were made is relevant, and the truth and falsity thereof is immaterial (People v. Malibiran, G.R. No. 178301, April 24, 2009).
+
+On the other hand, Kulasa’s statements are also admissible as part of res gestae since the same were made
+under the influence of a startling event and without any opportunity to concoct or devise a falsehood.
+
+B) The trial court erred in holding that Rene’s statement to the press was a confession which, standing alone, would be sufficient to warrant a conviction. Resolve. (2014 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The trial court did not err in holding that Rene’s statement to the press is a confession. Rene’s confessions to the media were properly admitted because statements spontaneously made by a suspect to news reporters on a televised interview are deemed voluntary and are admissible in evidence (People v. Hipona, G.R. No.
+185709, February 18, 2010).
+
+22.  Blinded by extreme jealousy, Alberto shot his wife, Betty, in the presence of his sister, Carla. Carla brought Betty to the hospital. Outside the operating room, Carla told Domingo, a male nurse, that it was Alberto who shot Betty. Betty died while undergoing emergency surgery. At the trial of the parricide charges filed against Alberto, the prosecutor sought to present Domingo as witness, to testify on what Carla told him. The defense counsel objected on the ground that Domingo’s testimony is inadmissible for being hearsay. Rule on the objection with reasons. (2009
+BAR QUESTION) SUGGESTED ANSWER:
+Objection overruled. The disclosure received by Domingo from Carla may be regarded as independently relevant statement which is not covered by the hearsay rule; hence admissible. The statement may be received not as evidence of the truth of what was stated but only as to the tenor thereof and the occurrence when it was said, independently of whether it was true or false. (People v. Cloud, 333 Phil. 306[1996]; People v. Malibiran, et al., G.R. No. 178301, April 24, 2009)
+
+23.  What is the hearsay rule? (2007 BAR QUESTION) SUGGESTED ANSWER: 
+
+The hearsay rule is a rule of evidence to the effect that a witness can testify only to those facts which he knows of his own knowledge or derived from his own perceptions, except as otherwise provided in the Rules of Court (Rule 130, Sec. 36, Rules of Court).
+
+24.  In relation to the hearsay rule, what do the following rules of evidence have in common? (2007
+BAR QUESTION)
+a. The rule on statements that are part of the res gestae;
+b. The rule on dying declarations;
+c. The rule on admissions against interest. SUGGESTED ANSWER:
+The rules on the evidence specified in the question asked, have in common the following:
+a. The evidence although hearsay, are allowed by the Rules as exceptions to the hearsay rule;
+b. The facts involved are admissible in evidence for reasons of necessity and trustworthiness; and
+c. The witness is testifying on facts which are not of his own knowledge or derived from his own perception.
+
+7.  Opinion rule
+
+8.  Character evidence
+
+25.  Character evidence is admissible            . (2013 BAR QUESTION)
+A)  in criminal cases – the accused may prove his good moral character if pertinent to the moral trait involved in the offense charged
+B)  in criminal cases – the prosecution may prove the bad moral character of the accused to prove
+his criminal predisposition
+C)  in criminal cases under certain situations, but not to prove the bad moral character of the offended party
+D) when it is evidence of the good character of a witness even prior to his impeachment as witness
+E)  In none of the given situations above.
+
+SUGGESTED ANSWER:
+
+(A) in criminal cases – the accused may prove his good moral character if pertinent to the moral trait involved in the offense charged
+
+26. In a prosecution for murder, the prosecutor asks accused Darwin if he had been previously arrested for violation of the Anti-Graft and Corrupt Practices Act. As defense counsel, you object. The trial court asks you on what ground / s. Respond. (2010 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The objection is on the ground that the fact sought to be elicited by the prosecution is irrelevant and immaterial to the offense under prosecution and trial. Moreover, the Rules do not allow the prosecution to adduce evidence of bad moral character of the accused pertinent to the offense charged, except on rebuttal and only if it involves a prior conviction by final judgment (Rule 130, Sec. 51, and Rules of Court).
+
+F. Burden of proof and presumptions (Rule 131) 
+
+
+G.Presentation of evidence (Rule 132)
+
+1.  Examination of witnesses
+
+2.  Authentication and proof of documents
+
+3.  Offer and objection
+
+27. TRUE or FALSE. The One-Day Examination of Witness Rule abbreviates court proceedings by having a witness fully examined in only one day during trial. (2009 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+TRUE. Par. 5(i) of Supreme Court A.M. No. 03-1-09-SC requires that a witness has to be fully examined in one (1) day only. This rule shall be strictly adhered to subject to the court’s discretion during trial on whether or not to extend the direct and/or cross-examination for justifiable reasons.
+
+ALTERNATIVE ANSWER:
+
+FALSE. This rule is not absolute: it will still allow the trial judge the discretion whether to extend the direct and/or cross examination for justifiable reasons or not.
+
+28. G files a complaint for recovery of possession and damage against F. in the course of the trial, G marked his evidence but his counsel failed to file a formal offer of evidence. F then presented in evidence tax declarations in the name of his father to establish that his father is a co-owner of the property. The court ruled in favor of F, saying that G failed to prove sole ownership of the property in the face of F's evidence. Was the court correct? Explain briefly. (5%)
+
+SUGGESTED ANSWER:
+
+No, the trial court is not correct in ruling in favor of F. Tax Declaration are not by themselves evidence of ownership; hence, they are not sufficient evidence to warrant a judgment that F’s father is a co-owner of the property.
+
+Plaintiff’s failure to make a formal offer of his evidence may mean a failure to prove the allegations in his
+complaint. However, it does not necessarily result in a judgment awarding co-ownership to the defendant.
+
+While the court may not consider evidence which is not offered, the failure to make a formal offer of evidence is a technical lapse in procedure that may not be allowed to defeat substantive justice. In the interest of justice, the court can require G to offer his evidence and specify the purpose thereof.
+
+29.  What is a tender of excluded evidence?  (2017 BAR QUESTION) SUGGESTED ANSWER:
+Tender of excluded evidence is the remedy of a party when the evidence he has offered is excluded by the court. 
+
+If documentary or object evidence is excluded by the court, the offeror may have the same attached to or made part of the record. If the evidence excluded is oral, the offeror may state for the record the name and other personal circumstances of the witness and the substance of the proposed testimony. (S40 R132).
+
+30.  In an attempt to discredit and impeach a Prosecution witness in a homicide case, the defense counsel called to the stand a person who had been the boyhood friend and next-door neighbor of the  Prosecution  witness for  30  years.  One  question  that  the  defense counsel  asked  of  the impeaching witness was: "Can you tell this Honorable Court about the general reputation of the prosecution witness in your community for aggressiveness and violent tendencies?"
+
+Would you, as the trial prosecutor, interpose your objection to the question of the defense counsel? Explain your answer.
+
+SUGGESTED ANSWER:
+
+Yes, I as the trial prosecutor, would interpose my objection to defense counsel’s question on the ground
+of improper impeachment.
+
+Under the Law on Evidence, an adverse party’s witness may be properly impeached by reputation evidence provided that it is to the effect that the witness’s general reputation for honesty, truth, or integrity was bad. [S11 R132] The reputation must only be on character for truthfulness or untruthfulness. [Cordial v. People,
+166 SCRA 17]
+
+Here the evidence is not on the Prosecution witness’s general reputation for honesty, truth, or integrity but on his aggressive and violent tendencies. The evidence had nothing to do with the witness’s character for truthfulness or untruthfulness. Hence the impeachment was improper.
+
+H.   Judicial Affidavit Rule (A.M. No. 12-8-8-SC)
+
+31.   Pedro was charged with theft for stealing Juan's cellphone worth P20,000.00. Prosecutor Marilag at the pre-trial submitted the judicial affidavit of Juan attaching the receipt for the purchase of the cellphone to prove civil liability. She also submitted the judicial affidavit of Mario, an eyewitness who narrated therein how Pedro stole Juan's cellphone.
+
+At the trial, Pedro's lawyer objected to the prosecution's use of judicial affidavits of her witnesses considering the imposable penalty on the offense with which his client was charged. (2015 BAR QUESTION)
+
+A) Is Pedro's lawyer correct in objecting to the judicial affidavit of Mario? SUGGESTED ANSWER:
+Yes, Pedro’s lawyer is correct in objecting to the judicial affidavit of Mario. The Judicial Affidavit Rules shall apply only to criminal actions where the maximum of the imposable penalty does not exceed six years (Section 9 (a) (1) of A.M. No. 12-8-8-SC or the Judicial Affidavit Rule). Here, the maximum impossible penalty for the crime of theft of a cell phone worth P20,000.00 is prision mayor in its minimum to medium periods, or six years and one day to eight years and one day. Thus, Pedro’s lawyer is correct in objecting to the judicial affidavit of Mario.
+
+[Note: The Committee respectfully recommends that the examinees be given full credit to any answer given to the question, because the specific imposable penalties for crimes or offenses charged are not included in the 2015 BAR Examination Syllabus in Remedial Law.] 
+
+
+B) Is Pedro's lawyer correct in objecting to the judicial affidavit of Juan? SUGGESTED ANSWER:
+No, Pedro’s lawyer is not correct in objecting to the judicial affidavit of Juan because the Judicial Affidavit
+Rules apply with respect to the civil aspect of the actions, regardless of the penalties involved (Section 9 of A.M. No. 12-8-8-SC or the Judicial Affidavit Rule). Here, the judicial affidavit of Juan was offered to prove the civil liability of Pedro. Thus, the objection of Pedro’s lawyer to the judicial affidavit of Juan is not correct.
+
+C) At the conclusion of the prosecution's presentation of evidence, Prosecutor Marilag orally offered the receipt attached to Juan's judicial affidavit, which the court admitted over the objection of Pedro's lawyer.
+
+After Pedro's presentation of his evidence, the court rendered judgment finding him guilty as charged and holding him civilly liable for P20,000.00.
+
+Pedro's lawyer seasonably filed a motion for reconsideration of the decision asserting that the court erred in awarding the civil liability on the basis of Juan's judicial affidavit, a documentary evidence which Prosecutor Marilag failed to orally offer. Is the motion for reconsideration meritorious?
+
+SUGGESTED ANSWER:
+
+No. The motion for reconsideration is not meritorious. The judicial affidavit is not required to be orally offered as separate documentary evidence, because it is filed in lieu of the direct testimony of the witness. It is offered, at the time the witness is called to testify, and any objection to it should have been made at the time the witness was presented (Sections 6 and 8, A.M. No. 12-8-8-SC or the Judicial Affidavit Rule). Since the receipt attached to the judicial affidavit was orally offered, there was enough basis for the court to award civil liability.
+
+32.  What are the contents of a judicial affidavit? (2016 BAR QUESTION) SUGGESTED ANSWER:
+A judicial affidavit shall be prepared in the language known to the witness and, if not in English or Filipino, accompanied by a translation in English or Filipino, and shall contain the following: (a) The name, age, residence or business address, and occupation of the witness; (b) The name and address of the lawyer who conducts or supervises the examination of the witness and the place where the examination is being held;
+(c) A statement that the witness is answering the questions asked of him, fully conscious that he does so under oath, and that he may face criminal liability for false testimony or perjury; (d) Questions asked of the witness and his corresponding answers, consecutively numbered, that: (1) Show the circumstances under which the witness acquired the facts upon which he testifies; (2) Elicit from him those facts which are relevant to the issues that the case presents; and (3) Identify the attached documentary and object evidence and establish their authenticity in accordance with the Rules of Court; (e) The signature of the witness over his printed name; and (f) A jurat with the signature of the notary public who administers the oath or an officer who is authorized by law to administer the same (Section 3, A.M. No. 12-8-8 SC, Judicial Affidavit Rule). 
+
+
+I. Weight and sufficiency of evidence (Rule 133)
+
+33.  What elements should concur for circumstantial evidence to be sufficient for conviction? (2017
+BAR QUESTION) SUGGESTED ANSWER:
+The following elements should concur for circumstantial evidence to be sufficient for conviction:
+a)   There is more than one circumstance.
+b)   The facts from which the inferences are derived are proven.
+c)	The combination of all the circumstances is such as to produce a conviction beyond reasonable doubt. (Section 4, Rule 133)
+
+J. Rules on Electronic Evidence (A.M. No. 01-7-01-SC)
+
+34.  While window-shopping at the mall on August 4, 2008, Dante lost his organizer including his credit card and billing statement. Two days later, upon reporting the matter to the credit card company, he learned that a. one-way airplane ticket was purchased online using his credit card for a flight to Milan in mid-August 2008. Upon extensive inquiry with the airline company, Dante discovered that the plane ticket was under the name of one Dina Meril. Dante approaches you for legal advice.
+
+Suppose an Information is filed against Dina on August 12, 2008 and she is immediately arrested. What pieces of electronic evidence will Dante have to secure in order to prove the fraudulent online transaction? (2010 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+He will have to present (a) his report to the bank that he lost his credit card (b) that the ticket was purchased after the report of the lost and (c) the purchase of one- way ticket.
+
+Dante should bring an original (or an equivalent copy) printout of: 1) the online ticket purchase using his credit card; 2) the phone call log to show that he already alerted the credit card company of his loss; and 3) his credit card billing statement- bearing the online ticket transaction.
+
+35.  TRUE or FALSE. An electronic document is the equivalent of an original document under the Best Evidence Rule if it is a printout or output readable by sight or other means, shown to reflect the data accurately. (2009 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+TRUE. This statement is embodied in Sec. l, Rule 4 of A.M. No. 01-7-01-SC, re: Rules on Electronic
+Evidence.
+
+K.Chain of Custody
+
+36.  Discuss the "chain of custody" principle with respect to evidence seized under R.A. 9165 or the
+Comprehensive Dangerous Drugs Act of 2002. (2012 BAR QUESTION) SUGGESTED ANSWER: 
+
+
+In prosecutions involving narcotics and other illegal substances, the substance itself constitutes part of the corpus delicti of the offense and the fact of its existence is vital to sustain a judgment of conviction beyond reasonable doubt. The chain of custody requirement is essential to ensure that doubts regarding the identity of the evidence are removed through the monitoring and tracking of the movements of the seized drugs from the accused, to the police, to the forensic chemist, and finally to the court. (People vs. Sitco, G.R. No. 178202, May 14, 2010, Velasco, Jr. J.). Ergo, the existence of the dangerous drug is a condition sine qua non for conviction. (People vs. De Guzman Y Danzil, G.R. No. 186498, March 26, 2010 Nachura J.). The failure to establish, through convincing proof, that the integrity of the seized items has been adequately preserved through an unbroken chain of custody is enough to engender reasonable doubt on the guilt of an accused (People vs. De Guzman Y Danzil). Nonetheless, non-compliance with the procedure shall not render void and invalid the seizure and custody of the drugs when: (1) such non-compliance is attended by justifiable grounds; and (2) the integrity and the evidentiary value of the seized items are properly preserved by the apprehending team. There must be proof that these two (2) requirements were met before such noncompliance may be said to fall within the scope of the proviso. (People vs. Dela Cruz, G.R. No. 177222, October 29, 2008, 570 SCRA 273).
+
+ALTERNATIVE ANSWER:
+
+Crucial in proving chain of custody is the marking of the seized drugs or other related items immediately after they are seized from the accused. Marking after seizure is the starting point in the custodial link, thus, it is vital that the seized contraband are immediately marked because succeeding handlers of the specimens will use the markings as reference. Thus, non-compliance by the apprehending/buy-bust team with Sec.21 of R.A. 9165 is not fatal as long as there is justifiable ground therefor, and as long as the integrity and the evidentiary value of the confiscated/seized items are properly preserved by the apprehending officer/team. (People vs. Mantalaba, G.R. No. 186227, July 20, 2011). (N.B.: The case of People v. Romy Lim, G.R. No.
+231989, 4 September 2018 be considered) 
+
+
+IX. WRIT OF AMPARO (A.M. No. 07-9-12-SC)
+
+37.  Marinella is a junior officer of the Armed Forces of the Philippines who claims to have personally witnessed the malversation of funds given by US authorities in connection with the Balikatan exercises.
+
+Marinella alleges that as a result of her expose, there are operatives within the military who are out to kill her. She files a petition for the issuance of a writ of amparo against, among others, the Chief of Staff but without alleging that the latter ordered that she be killed.
+
+Atty. Daro, counsel for the Chief of Staff, moves for the dismissal of the Petition for failure to allege that his client issued any order to kill or harm Marinella. Rule on Atty. Daro's motion. Explain. (2010 BAR Examination)
+
+SUGGESTED ANSWER:
+
+The motion to dismiss must be denied on the ground that it is a prohibited pleading under Section 11(a) of the Rule on the Writ of Amparo. Moreover, said Rule does not require the petition therefor to allege a complete detail of the actual or threatened violation of the victim's rights. It is sufficient that there be an allegation of real threat against petitioner's life, liberty and/ or security (Gen. A. Razon, Jr. v. Tagitis, G.R. No. 182498, Dec. 3, 2009).
+
+38. What is the writ of amparo? How is it distinguished from the writ of habeas corpus? (2009 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The petition for a writ of amparo is a remedy available to any person whose right to life, liberty and security is violated or threatened with violation by an unlawful act or omission of a public official or employee, or of a private individual or entity. The writ shall cover extralegal killings and enforced disappearances or threats thereof.
+
+The writ of amparo differs from a writ of habeas corpus in that the latter writ is availed of as a remedy against cases of unlawful confinement or detention by which any person is deprived of his liberty, or cases by which rightful custody of any person is withheld from another who is lawfully entitled thereto (Sec 1, Rule 102, Rules of Court).
+
+39.  The residents of Mt. Ahohoy, headed by Masigasig, formed a nongovernmental organization - Alyansa Laban sa Minahan sa Ahohoy (ALMA) to protest the mining operations of Oro Negro Mining in the mountain. ALMA members picketed daily at the entrance of the mining site blocking the ingress and egress of trucks and equipment of Oro Negro, hampering its operations. Masigasig had an altercation with Mapusok arising from the complaint of the mining engineer of Oro Negro that one of their trucks was destroyed by ALMA members. Mapusok is the leader of the Association of Peace Keepers of Ahohoy (APKA), a civilian volunteer organization serving as auxiliary force of the local police to maintain peace and order in the area. Subsequently, Masigasig disappeared. Mayumi, the wife of Masigasig, and the members of ALMA searched for Masigasig, but all their efforts proved futile. Mapagmatyag, a member of ALMA, learned from Maingay, a member of APKA, during their binge drinking that Masigasig was abducted by other members of APKA, on order of Mapusok. Mayumi and ALMA sought the assistance of the local police to search for Masigasig, but they refused to extend their cooperation. 
+
+Immediately, Mayumi filed with the RTC, a petition for the issuance of the writ of amparo against Mapusok and APKA. ALMA also filed a petition for the issuance of the writ of amparo with the Court of Appeals against Mapusok and APKA. Respondents Mapusok and APKA, in their Return filed with the RTC, raised among their defenses that they are not agents of the State; hence, cannot be impleaded as respondents in an amparo petition. (2015 BAR QUESTION)
+
+A) Is their defense tenable? SUGGESTED ANSWER:
+No. The defense is not tenable. The writ of amparo is a remedy available to any person whose right to life,
+liberty and security has been violated or is threatened with violation by an unlawful act or omission of a public officer or employee or of a private individual or entity. The writ covers extralegal killing and enforced disappearances or threats thereof (Section 1, Rules on the Writ of Amparo). Moreover, the rules do not require that the respondents should be agents of the State in order to be impleaded as respondents in an amparo petition (Secretary of National Defense v. Manalo, G.R. No. 180906, October 7, 2008).
+
+B) Respondents Mapusok and APKA, in their Return filed with the Court of Appeals, raised as their defense that the petition should be dismissed on the ground that ALMA cannot file the petition because of the earlier petition filed by Mayumi with the RTC. Are respondents correct in raising their defense?
+
+SUGGESTED ANSWER:
+
+Yes. The respondents are correct in raising the defense. Under Section 2(c) of the Rules on the Writ of Amparo, the filing of a petition by Mayumi who is an immediate member of the family of the aggrieved party already suspends the right of all other authorized parties to file similar petitions. Hence, ALMA cannot file the petition because of the earlier petition filed by Mayumi with the RTC.
+
+C) Mayumi later filed separate criminal and civil actions against Mapusok. How will the cases affect the amparo petition she earlier filed?
+
+SUGGESTED ANSWER:
+
+When a criminal action and a separate civil action are filed subsequent to a petition for a writ of amparo, the latter shall be consolidated with the criminal action. After consolidation, the procedure under the Rules shall continue to apply to the disposition of the reliefs in the petition (Sec. 23, Rule on the Writ of Amparo). 
+
+
+X.   WRIT OF HABEAS DATA (A.M. No. 08-1-16-SC)
+
+40.  Azenith, the cashier of Temptation Investments, Inc. (Temptation, Inc.) with principal offices in Cebu City, is equally hated and loved by her co-employees because she extends cash advances or "vales" to her colleagues whom she likes. One morning, Azenith discovers an anonymous letter inserted under the door of her office threatening to kill her.
+
+Azenith promptly reports the matter to her superior Joshua, who thereupon conducts an internal investigation to verify the said threat.
+
+Claiming that the threat is real, Temptation, Inc. opts to transfer Azenith to its Palawan Office, a move she resists in view of the company's refusal to disclose the results of its investigation.
+
+Decrying the move as a virtual deprivation of her employment, Azenith files a petition for the issuance of a writ of habeas data before the Regional Trial Court (RTC)to enjoin Temptation, Inc. from transferring her on the ground that the company's refusal to provide her with a copy of the investigation results compromises her right to life, liberty and privacy.
+
+Resolve the petition. Explain. (2010 BAR QUESTION) SUGGESTED ANSWER:
+Azenith's petition for the issuance of a writ of habeas data must be dismissed as there is no showing that her right to privacy in life, liberty or security is violated or threatened by an unlawful act or omission. Neither was the company shown to be engaged in the gathering, collecting nor storing of data or information regarding the person, family, home and correspondence of the aggrieved party (Sec. 1, Rule on the Writ of Habeas Data). 
+
+
+XI. RULES OF PROCEDURE ON ENVIRONMENTAL CASES (A.M. No. 09-6-8- SC)
+
+A.Temporary Environmental Protection Order (TEPO) B.Writ of continuing mandamus
+C.Writ of Kalikasan
+
+41.   The officers of "Ang Kapaligiran ay Alagaan, Inc." engaged your services to file an action against ABC Mining Corporation which is engaged in mining operations in Sta. Cruz, Marinduque. ABC used highly toxic chemicals in extracting gold. ABC's toxic mine tailings were accidentally released from its storage dams and were discharged into the rivers of said town. The mine tailings found their way to Calancan Bay and allegedly to the waters of nearby Romblon and Quezon. The damage to the crops and loss of earnings were estimated at Pl Billion. Damage to the environment is estimated at Pl Billion. As lawyer for the organization, you are requested to explain the advantages derived from a  petition for writ of kalikasan before the Supreme Court over a complaint for damages before the RTC of Marinduque or vice-versa. What action will you recommend? Explain. (2016 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The following reliefs may be included under the writ of kalikasan: (a) Directing respondent to permanently cease and desist from committing acts or neglecting the performance of a duty in violation of environmental laws resulting in environmental destruction or damage; (b) Directing the respondent public official, government agency, private person or entity to protect, preserve, rehabilitate or restore the environment; (c) Directing the respondent public official, government agency, private person or entity to monitor strict compliance with the decision and orders of the court; (d) Directing the respondent public official, government agency, or private person or entity to make periodic reports on the execution of the final judgment; and (e) Such other reliefs which relate to the right of the people to a balanced and healthful ecology or to the protection, preservation, rehabilitation or restoration of the environment, except the award of damages to individual petitioner (Sec. 15, Rule 7. Ibid).
+
+The rules also provide interim reliefs in favor of the petitioner upon filing a verified motion, namely: (i) Ocular inspection; or (ii) Production or inspection of documents or things (Sec. 12, Rule 7, A.M. No. 09-
+6-8-SC also known as Rules of Procedure for Environmental Cases).
+
+Additionally, the petition for Writ of Kalikasan is more advantageous compared to a complaint for damages before the RTC because it may be filed directly with the Supreme Court or with any of the stations of the Court of Appeals. Unlike a complaint for damages before the RTC which can only be filed by a real-party- in-interest as defined in Rule 3(2) of the Rules of Court, the rule on locus standi is relaxed in petitions for Writ of Kalikasan which allows the petition to be filed by parties as a citizen suit. In addition, any of the following may file a petition for Writ of Kalikasan: (a) natural or juridical person; (b) entity authorized by law; or (c) POs, NGOs or any public interest group accredited by or registered with any government agency on behalf of persons whose constitutional right to a balanced and healthful ecology is violated (Sec. 1, Rule
+7, A.M. No. 09-6-8-SC). Besides, the petition for Writ of Kalikasan is exempted from the payment of docket fees. 
+
+
+From the foregoing, it is clear that filing a petition for Writ of Kalikasan would be the best remedy to address all the environmental problems caused by the release of the toxic waste to the waters of Romblon and Quezon without the burden of paying docket fees. After all, the filing of a petition for the issuance of the Writ of Kalikasan shall not preclude the filing of separate civil, criminal or administrative actions; thus, the organization can later file a complaint for damages with the Regional Trial Court, should they desire to do so. At any rate, the rules provide that judgment must be rendered within sixty (60) days from the time the petition is submitted for decision which expedites the proceedings significantly considering the urgency of the situation in the instant case. As lawyer for the organization I would recommend, therefore, the filing of a petition for a Writ of Kalikasan with the Supreme Court.
+
+D. Others
+
+1.  Alternative Dispute Resolution
+
+42.  Discuss  the  three  (3)  Stages  of  Court  Diversion  in  connection  with  Alternative  Dispute
+Resolution. (2012 BAR QUESTION)
+
+SUGGESTED ANSWER:
+
+The three stages of diversion are Court Annexed Mediation (CAM), Judicial Dispute Resolution, and Appeals Court Mediation (ACM). During CAM, the judge refers the parties to the Philippine Mediation Center (PMC) for the mediation of their dispute by trained and accredited mediators. If CAM fails, the JDR is undertaken by the JDR judge, acting as a mediator-conciliator-early neutral evaluator. The third case is during appeal, where covered cases are referred to ACM.
+
+2.  A.M. No. 09-6-8-SC; Precautionary Principle (2012)
+
+43.  What do you understand about the "precautionary principle" under the Rules of Procedure for
+Environmental Cases? (2012 BAR QUESTION) SUGGESTED ANSWER:
+Precautionary principles states that when human activities may lead to threats of serious and irreversible
+damage to the environment that is scientifically plausible but uncertain, actions shall be taken to avoid or diminish that threat. In its essence, the precautionary principle calls for the exercise of caution in the face of risk and uncertainty (Sec. 4 [f], Rule 1, Part 1, and Rule 20, A.M. No. 09-6-8-SC, Rules of Procedure for Environment Cases). 
